@@ -130,7 +130,3 @@ dmypy.json
 .pyre/
 
 fr/Projet/images/*.*
-fr/TP1/*.jpg
-fr/TP1/*.png
-fr/TP1/*.jpeg
-fr/TP1/*.json
