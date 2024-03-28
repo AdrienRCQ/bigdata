@@ -1,1 +1,500 @@
-{"Algiers Montage.png": ["#121311", "#7a8393", "#c1d2db", "#3e505e"], "BangaloreMontage.png": ["#adc8ec", "#51564e", "#171a1b", "#848c94"], "Bern luftaufnahme.png": ["#7b816d", "#c8c7b7", "#0c261f", "#3a6355"], "Ciudad de Chill\u00e1n.png": ["#86acc6", "#201919", "#8e7559", "#ebeed8"], "KAZ Collage 2015.png": ["#aab3b6", "#757579", "#3369b9", "#363b38"], "Ljubljana Montage 2.png": ["#7f706a", "#37312f", "#bcd6eb", "#83a2cc"], "MonroviaLB14.png": ["#363625", "#e3e7eb", "#726a5f", "#8998a0"], "Montagem de Lisboa.png": ["#9c8360", "#516bae", "#d3ccc7", "#3d3144"], "Omsk Collage 2016.png": ["#d0dce6", "#656164", "#2e2c24", "#919baa"], "Oslo newer montage 2013.png": ["#1d191b", "#dbe5e7", "#465466", "#8f8e8c"], "Paramaribo city collage.png": ["#f0f6f4", "#2a2f1e", "#a1a6a6", "#68675d"], "SA Montage Nima.png": ["#d9e3e8", "#15110e", "#8c8477", "#534437"], "Stuttgart Downtown Sights Collage.png": ["#6495c1", "#a6876a", "#e3e3e2", "#363736"], "Turin Montage.png": ["#ffffff", "#252220", "#7b7269", "#afbcc9"], "Volgograd Montage 2016.png": ["#303321", "#cad3d6", "#8c7854", "#71a7d1"], "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440.png": ["#8b97aa", "#ccdfe8", "#232623", "#5b5e5e"]}
+{
+    "00 3178 Sydney, Australia.jpg": [
+        "#7c6c6a",
+        "#a7a2a8",
+        "#313234",
+        "#687aa1"
+    ],
+    "15-Nouakchott-eH-R0058185.jpg": [
+        "#614c53",
+        "#baa5ab",
+        "#93797b",
+        "#2b1c1f"
+    ],
+    "20130610 - Monumento aos Her\u00f3is da Independ\u00eancia.jpg": [
+        "#cba586",
+        "#cbd6de",
+        "#3c3a13",
+        "#8a7656"
+    ],
+    "Addis abeba meskele square.jpg": [
+        "#cdc7aa",
+        "#3a3c32",
+        "#69a6cf",
+        "#867658"
+    ],
+    "Alger monochrome.jpg": [
+        "#c5c5c5",
+        "#0e0e0e",
+        "#3f3f3f",
+        "#828282"
+    ],
+    "Algiers Grand Post.jpg": [
+        "#0a080b",
+        "#93939f",
+        "#5d5452",
+        "#c2c4c4"
+    ],
+    "Algiers in the morning.jpg": [
+        "#7f7764",
+        "#c2baac",
+        "#201c14",
+        "#4e4431"
+    ],
+    "Algiers's Airport.jpg": [
+        "#29301a",
+        "#839972",
+        "#c8e4cf",
+        "#546540"
+    ],
+    "AMMAN 2.jpg": [
+        "#b59a82",
+        "#2d1f17",
+        "#785f4c",
+        "#f6f4ee"
+    ],
+    "AnkonPanorama.jpg": [
+        "#323739",
+        "#857d80",
+        "#5c5c5e",
+        "#969fb7"
+    ],
+    "Argel 3.jpg": [
+        "#2a3032",
+        "#c6c5c6",
+        "#7f8c9f",
+        "#5e5e5c"
+    ],
+    "Asmara2.jpg": [
+        "#bda586",
+        "#7c6852",
+        "#3a3125",
+        "#566781"
+    ],
+    "Asunci\u00f3n Paraguay.jpg": [
+        "#aabaca",
+        "#55554c",
+        "#262721",
+        "#898682"
+    ],
+    "At night in Algiers, Algeria.jpg": [
+        "#151a23",
+        "#084e9f",
+        "#999890",
+        "#57534a"
+    ],
+    "Ausblick Bergisch Gladbach.jpg": [
+        "#bbd2df",
+        "#5d6960",
+        "#283025",
+        "#eefcfc"
+    ],
+    "Avenida Bolivar A Chavez.jpg": [
+        "#192a1f",
+        "#d1d0a6",
+        "#495742",
+        "#947a53"
+    ],
+    "Bangui City Centre.jpg": [
+        "#b5bec4",
+        "#615038",
+        "#ea9a67",
+        "#b27b51"
+    ],
+    "Beirutcity.jpg": [
+        "#10182a",
+        "#3e8ac9",
+        "#2a426f",
+        "#878a99"
+    ],
+    "Beograd collage.jpg": [
+        "#dee8ea",
+        "#596468",
+        "#7ea5c0",
+        "#2b2d25"
+    ],
+    "Blick vom Rathausturm \u00fcber Gera.jpg": [
+        "#5b524b",
+        "#bfc7d5",
+        "#918378",
+        "#282421"
+    ],
+    "Bottrop - Altmarkt 02 ies.jpg": [
+        "#99979c",
+        "#27282c",
+        "#aad4fb",
+        "#636770"
+    ],
+    "Canberra from Mt Ainslie (5642431515).jpg": [
+        "#545350",
+        "#817d81",
+        "#302d1f",
+        "#a8b1c5"
+    ],
+    "Central accra-2.jpg": [
+        "#dededd",
+        "#5e5d56",
+        "#807e79",
+        "#a9a5a4"
+    ],
+    "Central Algeria at night.jpg": [
+        "#120804",
+        "#e4ab5b",
+        "#984e17",
+        "#4f1e07"
+    ],
+    "CintaCosteraPanama.jpg": [
+        "#353327",
+        "#c5d2df",
+        "#a18b6a",
+        "#6a9cda"
+    ],
+    "Cityscape of San Jos\u00e9, Costa Rica (253552473).jpg": [
+        "#231e1d",
+        "#ddc2b9",
+        "#4c4746",
+        "#817471"
+    ],
+    "Cottbus 07-2017 img10 aerial.jpg": [
+        "#c5c6cc",
+        "#364239",
+        "#8fa6c4",
+        "#6f6f72"
+    ],
+    "Damascus, Syria, Panorama at sunset.jpg": [
+        "#343733",
+        "#c1bcb6",
+        "#928c85",
+        "#64625d"
+    ],
+    "Djibouti City.jpg": [
+        "#938c8a",
+        "#d6dceb",
+        "#292a24",
+        "#5f5a59"
+    ],
+    "Dom R1.jpg": [
+        "#695b57",
+        "#292522",
+        "#96807c",
+        "#b0bcc8"
+    ],
+    "Dom zu paderborn1.jpg": [
+        "#c5c7bf",
+        "#3f3e3e",
+        "#687bbb",
+        "#88857f"
+    ],
+    "Elizabeth Quay February 2016 (cropped).jpg": [
+        "#bcc3d1",
+        "#303b48",
+        "#737677",
+        "#7d9bcc"
+    ],
+    "Erlangen 08-2012.jpg": [
+        "#a7bfd9",
+        "#71615a",
+        "#303531",
+        "#aa9189"
+    ],
+    "Freetown-aerialview.jpg": [
+        "#4c5954",
+        "#f6fbfd",
+        "#9eb4bf",
+        "#748b92"
+    ],
+    "Fuerther Innenstadt Mrz 2020.jpg": [
+        "#c2a175",
+        "#82613c",
+        "#342619",
+        "#e0d9c7"
+    ],
+    "Goettingen Marktplatz Oct06 Antilived.jpg": [
+        "#4672a8",
+        "#98b2d5",
+        "#313231",
+        "#736a64"
+    ],
+    "Hagen Rathausplatz.jpg": [
+        "#7e9aab",
+        "#4d4033",
+        "#b8bab6",
+        "#8a7b6a"
+    ],
+    "Hamm Luftbild Innenstadt 2007.jpg": [
+        "#666967",
+        "#8d8785",
+        "#3e4741",
+        "#c2c0bd"
+    ],
+    "Heidelberg corr.jpg": [
+        "#49615b",
+        "#c9cecd",
+        "#1c2d25",
+        "#85887f"
+    ],
+    "Herne, Blick auf Europaplatz mit Kreuzkirche.jpg": [
+        "#a3b7c6",
+        "#4b4d37",
+        "#7f7a67",
+        "#1b1f15"
+    ],
+    "Hildesheim - Blick vom Bergh\u00f6zchen.jpg": [
+        "#bdd6e6",
+        "#5b5f47",
+        "#2e3b24",
+        "#998070"
+    ],
+    "Imagelom\u00e920.jpg": [
+        "#373424",
+        "#c0cacd",
+        "#6e675c",
+        "#a2a9a8"
+    ],
+    "Ingolstadt Altes Rathaus 2012 02.jpg": [
+        "#332526",
+        "#8cb7e8",
+        "#7c7575",
+        "#b6dbf5"
+    ],
+    "Koblenz - Panorama von Festung Ehrenbreitstein.jpg": [
+        "#a7bdcd",
+        "#596966",
+        "#8a9c9b",
+        "#27342e"
+    ],
+    "Leverkusen-Schloss-Morsbroich Hauptgeb\u00e4ude.jpg": [
+        "#36362d",
+        "#9eb4da",
+        "#82786a",
+        "#e6d6b0"
+    ],
+    "Libreville1.jpg": [
+        "#e5cecc",
+        "#2e222c",
+        "#9296ba",
+        "#6a5b6b"
+    ],
+    "Ludwigshafenmitte ausderluft.jpg": [
+        "#676363",
+        "#b4bbce",
+        "#8a8d9c",
+        "#333031"
+    ],
+    "Malabo a 13-oct-01.jpg": [
+        "#314348",
+        "#a5b8c7",
+        "#71828b",
+        "#4c626e"
+    ],
+    "Marcus Aurelius Arch Tripoli Libya.jpg": [
+        "#6f6b59",
+        "#e9e4e1",
+        "#a09b8e",
+        "#363625"
+    ],
+    "Melbourne montage 6.jpg": [
+        "#97b2d5",
+        "#353427",
+        "#eaeded",
+        "#797f79"
+    ],
+    "Moers schloss 211204.jpg": [
+        "#3a362d",
+        "#faf9f6",
+        "#a59f92",
+        "#71685d"
+    ],
+    "Montaje de Antofagasta.jpg": [
+        "#adb2c5",
+        "#282023",
+        "#7a7686",
+        "#5c4c4c"
+    ],
+    "Niamey night.jpg": [
+        "#a07243",
+        "#141a27",
+        "#e8ca98",
+        "#483d32"
+    ],
+    "Nicosia 01-2017 img23 View from Shacolas Tower.jpg": [
+        "#cabca6",
+        "#5f88b8",
+        "#3d3428",
+        "#8f7460"
+    ],
+    "Offenbacher-mainbogen-flussabw\u00e4rts001.jpg": [
+        "#a8ae9a",
+        "#8d9955",
+        "#485037",
+        "#e4f1f9"
+    ],
+    "Old city of Maskat.jpg": [
+        "#70a6c9",
+        "#7d756b",
+        "#d4d1cb",
+        "#323737"
+    ],
+    "Panorama Nagold, Stadtkirche und Enz (1).jpg": [
+        "#498ff9",
+        "#22281d",
+        "#b2b5ba",
+        "#606358"
+    ],
+    "Panoramique du centre de Tunis (3197369985) (cropped).jpg": [
+        "#6f747d",
+        "#2e2a27",
+        "#8c93a2",
+        "#565555"
+    ],
+    "Perugia panoramic.jpg": [
+        "#e6e7e8",
+        "#82776d",
+        "#3c332d",
+        "#b9b2aa"
+    ],
+    "Place de la nation2 (Tchad).jpg": [
+        "#b3b0a9",
+        "#877a67",
+        "#8099ba",
+        "#4c3d29"
+    ],
+    "Place Memorial auz Heros Nationaux in Burkina Faso, 2009.jpg": [
+        "#80715a",
+        "#a39fac",
+        "#cdc7cb",
+        "#3a3c1e"
+    ],
+    "Pointe des Almadies - Senegal.jpg": [
+        "#736253",
+        "#322c1a",
+        "#5e85a2",
+        "#9cb4ce"
+    ],
+    "Praia Harbor.jpg": [
+        "#ad8565",
+        "#b2c8e3",
+        "#637e9e",
+        "#4a4743"
+    ],
+    "Quartier OCH.jpg": [
+        "#323d26",
+        "#075aa4",
+        "#d9cbcf",
+        "#847972"
+    ],
+    "Recklinghausen, Rathaus -- 2015 -- 7398.jpg": [
+        "#b2a697",
+        "#2e2e23",
+        "#d1dde8",
+        "#6e6755"
+    ],
+    "Regensburg 08 2006 2.jpg": [
+        "#d4dce0",
+        "#3f362b",
+        "#877f75",
+        "#92b6d7"
+    ],
+    "Remscheid rathaus.jpg": [
+        "#dceff7",
+        "#91847d",
+        "#b9aca6",
+        "#5f534d"
+    ],
+    "Reutlingen T\u00fcbinger Tor 2012-04.jpg": [
+        "#75adec",
+        "#736769",
+        "#dbccba",
+        "#302929"
+    ],
+    "Salzgitter Stahlwerk.jpg": [
+        "#c4c6d4",
+        "#213d12",
+        "#666936",
+        "#7eaee3"
+    ],
+    "San Salvador Montage.jpg": [
+        "#606c74",
+        "#e4e6e8",
+        "#2d3738",
+        "#90a0b3"
+    ],
+    "Santiago en invierno.jpg": [
+        "#7a7370",
+        "#382d24",
+        "#b8d0e3",
+        "#6799d8"
+    ],
+    "Schloss Broich 0504.jpg": [
+        "#272c20",
+        "#c2ddfa",
+        "#a7a191",
+        "#5d605d"
+    ],
+    "Schlosswache mit Lambertikirche.jpg": [
+        "#616459",
+        "#cbc9bd",
+        "#5f87a7",
+        "#302d23"
+    ],
+    "Siegen - panoramio (9).jpg": [
+        "#c0c1b4",
+        "#6a6956",
+        "#84b5e8",
+        "#2a2b23"
+    ],
+    "Sucre capital de Bolivia.jpg": [
+        "#443a37",
+        "#757173",
+        "#a6aec0",
+        "#e6e7ed"
+    ],
+    "Tambov TransgfigurationCathedral 101 0477.jpg": [
+        "#463f32",
+        "#d4cfcf",
+        "#817369",
+        "#a7aab3"
+    ],
+    "Tegucigalpa desde el picacho en septiembre.jpg": [
+        "#494d53",
+        "#737b85",
+        "#242521",
+        "#d4d1cb"
+    ],
+    "The National Assembly Globe.jpg": [
+        "#b0cde3",
+        "#4d714b",
+        "#3dabe0",
+        "#ecf2f7"
+    ],
+    "Trier 126x.jpg": [
+        "#506277",
+        "#d3e3f3",
+        "#22343e",
+        "#8197b8"
+    ],
+    "Ulm Donauschwabenufer1.jpg": [
+        "#817a71",
+        "#4b4c3e",
+        "#a5bde6",
+        "#1d211a"
+    ],
+    "Witten 20090218.jpg": [
+        "#625252",
+        "#dbcbb3",
+        "#322e31",
+        "#948579"
+    ],
+    "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434 \u0441 \u0430\u044d\u0440\u043e\u0441\u0442\u0430\u0442\u0430 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2014 10.jpg": [
+        "#515852",
+        "#c6c1b7",
+        "#26312b",
+        "#84837d"
+    ],
+    "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0412\u0416\u0414.jpg": [
+        "#bdbac8",
+        "#322932",
+        "#637eb7",
+        "#c97d59"
+    ]
+}
