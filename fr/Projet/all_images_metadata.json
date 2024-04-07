@@ -1,6 +1,6 @@
 [
     {
-        "filename": "images\\00 3178 Sydney, Australia.jpg",
+        "filename": "images\\00 0781 Canal in Delft (NL).jpg",
         "size": [
             800,
             600
@@ -9,276 +9,50 @@
         "mode": "RGB",
         "dominant_colors": [
             [
+                64,
+                63,
+                45
+            ],
+            [
                 102,
-                120,
+                128,
+                170
+            ],
+            [
+                152,
+                144,
+                118
+            ]
+        ]
+    },
+    {
+        "filename": "images\\00 6191 Maastricht - Niederlande.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                160,
+                162,
                 161
             ],
             [
-                149,
-                137,
-                138
-            ],
-            [
                 56,
-                56,
-                57
-            ]
-        ]
-    },
-    {
-        "filename": "images\\15-Nouakchott-eH-R0058185.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                46,
-                31,
-                34
+                47,
+                41
             ],
             [
-                175,
-                151,
-                154
-            ],
-            [
-                112,
-                89,
-                96
-            ]
-        ]
-    },
-    {
-        "filename": "images\\20130610 - Monumento aos Her\u00f3is da Independ\u00eancia.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                203,
-                213,
-                221
-            ],
-            [
-                178,
-                144,
-                114
-            ],
-            [
-                65,
-                63,
-                25
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Addis abeba meskele square.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                69,
-                67,
-                56
-            ],
-            [
-                115,
-                167,
-                205
-            ],
-            [
-                180,
-                156,
-                115
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Alger monochrome.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                187,
-                187,
-                187
-            ],
-            [
-                22,
-                22,
-                22
-            ],
-            [
-                88,
-                88,
-                88
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Algiers Grand Post.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                11,
-                9,
-                12
-            ],
-            [
-                173,
-                174,
-                181
-            ],
-            [
-                103,
+                110,
                 93,
-                91
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Algiers Icon.png",
-        "size": [
-            800,
-            600
-        ],
-        "format": "PNG",
-        "mode": "RGBA"
-    },
-    {
-        "filename": "images\\Algiers in the morning.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                106,
-                95,
-                74
-            ],
-            [
-                187,
-                178,
-                163
-            ],
-            [
-                37,
-                32,
-                26
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Algiers Montage.png",
-        "size": [
-            800,
-            600
-        ],
-        "format": "PNG",
-        "mode": "RGBA"
-    },
-    {
-        "filename": "images\\Algiers's Airport.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                91,
-                109,
-                71
-            ],
-            [
-                164,
-                188,
-                156
-            ],
-            [
-                45,
-                51,
-                31
-            ]
-        ]
-    },
-    {
-        "filename": "images\\AMMAN 2.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                215,
-                204,
-                196
-            ],
-            [
-                46,
-                34,
-                30
-            ],
-            [
-                135,
-                104,
-                78
-            ]
-        ]
-    },
-    {
-        "filename": "images\\AnkonPanorama.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                150,
-                124,
-                113
-            ],
-            [
-                133,
-                149,
-                177
-            ],
-            [
-                71,
-                73,
                 76
             ]
         ]
     },
     {
-        "filename": "images\\Argel 3.jpg",
+        "filename": "images\\00 sea towers (April 2018).jpg",
         "size": [
             800,
             600
@@ -286,701 +60,25 @@
         "format": "JPEG",
         "mode": "RGB",
         "dominant_colors": [
-            [
-                118,
-                112,
-                103
-            ],
-            [
-                51,
-                56,
-                61
-            ],
-            [
-                151,
-                163,
-                183
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Asmara2.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                164,
-                141,
-                112
-            ],
-            [
-                69,
-                57,
-                43
-            ],
-            [
-                85,
-                101,
-                126
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Asunci\u00f3n Paraguay.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                65,
-                64,
-                57
-            ],
-            [
-                149,
-                170,
-                194
-            ],
-            [
-                179,
-                172,
-                157
-            ]
-        ]
-    },
-    {
-        "filename": "images\\At night in Algiers, Algeria.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                124,
-                119,
-                109
-            ],
-            [
-                33,
-                32,
-                30
-            ],
-            [
-                10,
-                65,
-                138
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Ausblick Bergisch Gladbach.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                222,
-                239,
-                244
-            ],
-            [
-                38,
-                45,
-                37
-            ],
-            [
-                94,
-                104,
-                92
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Avenida Bolivar A Chavez.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                36,
-                51,
-                42
-            ],
-            [
-                157,
-                95,
-                66
-            ],
-            [
-                132,
-                140,
-                95
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Bangui City Centre.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                125,
-                102,
-                72
-            ],
-            [
-                178,
-                187,
-                193
-            ],
-            [
-                224,
-                143,
-                93
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Beirutcity.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                32,
-                66,
-                132
-            ],
-            [
-                25,
-                31,
-                48
-            ],
             [
                 105,
-                136,
-                172
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Beograd collage.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
+                150,
+                198
+            ],
             [
+                70,
                 78,
-                75,
-                63
+                83
             ],
             [
-                205,
-                213,
-                214
-            ],
-            [
-                72,
-                123,
-                183
+                166,
+                171,
+                178
             ]
         ]
     },
     {
-        "filename": "images\\Blick vom Rathausturm \u00fcber Gera.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                190,
-                198,
-                213
-            ],
-            [
-                74,
-                67,
-                62
-            ],
-            [
-                141,
-                125,
-                112
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Bottrop - Altmarkt 02 ies.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                55,
-                55,
-                63
-            ],
-            [
-                142,
-                139,
-                144
-            ],
-            [
-                169,
-                210,
-                251
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Canberra from Mt Ainslie (5642431515).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                55,
-                51,
-                37
-            ],
-            [
-                162,
-                169,
-                190
-            ],
-            [
-                106,
-                103,
-                104
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Central accra-2.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                105,
-                104,
-                98
-            ],
-            [
-                220,
-                220,
-                219
-            ],
-            [
-                160,
-                156,
-                154
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Central Algeria at night.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                89,
-                35,
-                11
-            ],
-            [
-                22,
-                9,
-                4
-            ],
-            [
-                196,
-                125,
-                55
-            ]
-        ]
-    },
-    {
-        "filename": "images\\CintaCosteraPanama.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                161,
-                187,
-                225
-            ],
-            [
-                57,
-                53,
-                43
-            ],
-            [
-                194,
-                168,
-                125
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Cityscape of San Jos\u00e9, Costa Rica (253552473).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                37,
-                32,
-                32
-            ],
-            [
-                90,
-                83,
-                82
-            ],
-            [
-                198,
-                172,
-                164
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Ciudad de Chill\u00e1n.png",
-        "size": [
-            800,
-            600
-        ],
-        "format": "PNG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                39,
-                34,
-                34
-            ],
-            [
-                180,
-                198,
-                207
-            ],
-            [
-                165,
-                130,
-                87
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Cottbus 07-2017 img10 aerial.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                160,
-                175,
-                199
-            ],
-            [
-                102,
-                102,
-                109
-            ],
-            [
-                54,
-                64,
-                48
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Damascus, Syria, Panorama at sunset.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                185,
-                179,
-                171
-            ],
-            [
-                58,
-                60,
-                58
-            ],
-            [
-                120,
-                116,
-                109
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Djibouti City.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                214,
-                219,
-                233
-            ],
-            [
-                49,
-                49,
-                44
-            ],
-            [
-                123,
-                115,
-                114
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Dom R1.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                127,
-                107,
-                101
-            ],
-            [
-                176,
-                185,
-                197
-            ],
-            [
-                50,
-                45,
-                44
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Dom zu paderborn1.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                89,
-                86,
-                84
-            ],
-            [
-                103,
-                122,
-                186
-            ],
-            [
-                181,
-                181,
-                173
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Elizabeth Quay February 2016 (cropped).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                58,
-                64,
-                78
-            ],
-            [
-                128,
-                156,
-                204
-            ],
-            [
-                153,
-                147,
-                139
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Erlangen 08-2012.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                156,
-                119,
-                104
-            ],
-            [
-                62,
-                64,
-                62
-            ],
-            [
-                165,
-                187,
-                213
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Freetown-aerialview.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                88,
-                102,
-                100
-            ],
-            [
-                138,
-                162,
-                171
-            ],
-            [
-                243,
-                249,
-                251
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Fuerther Innenstadt Mrz 2020.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                61,
-                46,
-                34
-            ],
-            [
-                216,
-                209,
-                191
-            ],
-            [
-                169,
-                128,
-                77
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Goettingen Marktplatz Oct06 Antilived.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                89,
-                132,
-                188
-            ],
-            [
-                80,
-                75,
-                72
-            ],
-            [
-                172,
-                162,
-                154
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Hagen Rathausplatz.jpg",
+        "filename": "images\\01. Panorama de Lyon pris depuis le toit de la Basilique de Fourvi\u00e8re.jpg",
         "size": [
             800,
             600
@@ -990,422 +88,53 @@
         "dominant_colors": [
             [
                 177,
-                162,
-                145
-            ],
-            [
-                87,
-                73,
-                59
-            ],
-            [
-                131,
-                159,
-                176
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Hamm Luftbild Innenstadt 2007.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                175,
-                168,
-                164
-            ],
-            [
-                65,
-                74,
-                69
-            ],
-            [
-                113,
-                113,
-                111
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Heidelberg corr.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                31,
-                44,
-                40
-            ],
-            [
-                78,
-                100,
-                92
-            ],
-            [
-                171,
-                169,
-                163
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Herne, Blick auf Europaplatz mit Kreuzkirche.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                163,
-                181,
-                196
-            ],
-            [
-                102,
-                99,
-                74
-            ],
-            [
-                34,
-                37,
-                29
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Hildesheim - Blick vom Bergh\u00f6zchen.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                63,
-                75,
-                50
-            ],
-            [
-                189,
-                214,
-                229
-            ],
-            [
-                146,
-                119,
-                104
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Imagelom\u00e920.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                183,
-                192,
-                195
-            ],
-            [
-                56,
-                51,
-                36
-            ],
-            [
-                113,
-                106,
-                95
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Ingolstadt Altes Rathaus 2012 02.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                138,
-                129,
-                128
-            ],
-            [
-                162,
-                206,
-                246
-            ],
-            [
-                54,
-                39,
-                40
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Koblenz - Panorama von Festung Ehrenbreitstein.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                56,
-                68,
-                65
-            ],
-            [
-                164,
-                185,
-                200
-            ],
-            [
-                126,
-                141,
-                136
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Leverkusen-Schloss-Morsbroich Hauptgeb\u00e4ude.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                152,
-                171,
+                190,
                 205
             ],
             [
-                59,
-                57,
-                49
-            ],
-            [
-                176,
-                161,
-                132
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Libreville1.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                186,
-                161,
-                162
-            ],
-            [
-                69,
-                53,
-                64
-            ],
-            [
-                122,
-                137,
-                187
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Ludwigshafenmitte ausderluft.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                165,
-                171,
-                190
-            ],
-            [
-                54,
-                50,
-                52
-            ],
-            [
-                111,
-                107,
-                108
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Malabo a 13-oct-01.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                161,
-                180,
-                194
-            ],
-            [
-                97,
-                114,
-                123
-            ],
-            [
-                55,
-                74,
-                83
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Marcus Aurelius Arch Tripoli Libya.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                60,
-                59,
-                43
-            ],
-            [
-                218,
-                213,
-                207
-            ],
-            [
-                131,
+                145,
                 126,
-                109
+                111
+            ],
+            [
+                56,
+                56,
+                39
             ]
         ]
     },
     {
-        "filename": "images\\Melbourne montage 6.jpg",
+        "filename": "images\\138 - Place de la Bourse et le miroir d'eau - Bordeaux.jpg",
         "size": [
             800,
             600
         ],
         "format": "JPEG",
         "mode": "RGB",
+        "exif": {
+            "ExifOffset": 336,
+            "Artist": "toto"
+        },
         "dominant_colors": [
             [
-                200,
-                202,
-                191
+                121,
+                171,
+                214
             ],
             [
-                127,
-                155,
-                196
+                70,
+                80,
+                92
             ],
             [
-                74,
-                71,
-                58
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Moers schloss 211204.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                125,
-                116,
-                104
-            ],
-            [
-                62,
-                57,
-                48
-            ],
-            [
-                245,
-                243,
-                239
-            ]
-        ]
-    },
-    {
-        "filename": "images\\MonroviaLB14.png",
-        "size": [
-            800,
-            600
-        ],
-        "format": "PNG",
-        "mode": "RGBA"
-    },
-    {
-        "filename": "images\\Montaje de Antofagasta.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                112,
-                86,
-                78
-            ],
-            [
-                46,
-                39,
-                45
-            ],
-            [
-                144,
-                148,
+                185,
+                180,
                 171
             ]
         ]
     },
     {
-        "filename": "images\\Niamey night.jpg",
+        "filename": "images\\19-03-03-Maribor-RalfR-DJI 0444.jpg",
         "size": [
             800,
             600
@@ -1414,310 +143,50 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                22,
-                28,
-                43
+                120,
+                144,
+                168
             ],
             [
-                208,
-                160,
-                104
+                151,
+                116,
+                83
             ],
             [
-                87,
+                49,
+                57,
+                49
+            ]
+        ]
+    },
+    {
+        "filename": "images\\2010-02-19 3000x2000 chicago skyline.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                45,
                 64,
-                43
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Nicosia 01-2017 img23 View from Shacolas Tower.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                101,
-                134,
-                178
-            ],
-            [
-                89,
-                70,
-                55
-            ],
-            [
-                189,
-                166,
-                142
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Offenbacher-mainbogen-flussabw\u00e4rts001.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                214,
-                225,
-                230
-            ],
-            [
-                94,
-                100,
-                82
-            ],
-            [
-                152,
-                164,
                 85
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Old city of Maskat.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                191,
-                186,
-                178
             ],
             [
-                82,
-                77,
-                70
-            ],
-            [
-                105,
-                160,
-                198
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Panorama Nagold, Stadtkirche und Enz (1).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                76,
-                141,
-                247
-            ],
-            [
-                51,
-                54,
-                43
-            ],
-            [
-                160,
-                161,
-                162
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Panoramique du centre de Tunis (3197369985) (cropped).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                50,
-                46,
-                43
-            ],
-            [
-                123,
-                129,
-                144
-            ],
-            [
-                95,
-                95,
-                95
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Paramaribo city collage.png",
-        "size": [
-            800,
-            600
-        ],
-        "format": "PNG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                68,
-                69,
-                51
-            ],
-            [
-                224,
-                231,
-                227
-            ],
-            [
-                136,
-                134,
-                136
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Perugia panoramic.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                138,
-                126,
-                115
-            ],
-            [
-                61,
-                53,
-                47
-            ],
-            [
-                209,
-                206,
-                203
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Place de la nation2 (Tchad).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                181,
-                175,
-                164
-            ],
-            [
-                128,
-                114,
-                95
-            ],
-            [
-                130,
-                153,
-                186
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Place Memorial auz Heros Nationaux in Burkina Faso, 2009.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                165,
-                164,
-                187
-            ],
-            [
-                86,
-                82,
-                58
-            ],
-            [
-                197,
-                172,
-                136
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Pointe des Almadies - Senegal.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                170,
-                184,
-                202
-            ],
-            [
-                72,
-                61,
-                43
-            ],
-            [
-                109,
-                147,
-                181
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Praia Harbor.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                176,
-                197,
-                224
-            ],
-            [
-                169,
                 127,
-                94
+                153,
+                213
             ],
             [
-                91,
-                106,
-                128
+                139,
+                121,
+                112
             ]
         ]
     },
     {
-        "filename": "images\\Quartier OCH.jpg",
+        "filename": "images\\2017-05-27 Plac Zamkowy w Warszawie 1.jpg",
         "size": [
             800,
             600
@@ -1726,50 +195,24 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                21,
-                89,
-                161
+                81,
+                71,
+                66
             ],
-            [
-                178,
-                163,
-                162
-            ],
-            [
-                62,
-                68,
-                47
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Recklinghausen, Rathaus -- 2015 -- 7398.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
             [
                 146,
-                134,
-                114
+                182,
+                207
             ],
             [
-                208,
-                219,
-                228
-            ],
-            [
-                59,
-                56,
-                47
+                181,
+                132,
+                83
             ]
         ]
     },
     {
-        "filename": "images\\Regensburg 08 2006 2.jpg",
+        "filename": "images\\Aerial view of Krasnoyarsk 1.jpg",
         "size": [
             800,
             600
@@ -1778,76 +221,24 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                70,
-                62,
-                54
+                202,
+                209,
+                214
             ],
             [
-                176,
-                201,
-                227
-            ],
-            [
-                157,
-                147,
-                132
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Remscheid rathaus.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                220,
-                238,
-                246
-            ],
-            [
-                107,
-                95,
-                88
-            ],
-            [
-                164,
-                150,
-                145
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Reutlingen T\u00fcbinger Tor 2012-04.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                118,
-                171,
-                233
-            ],
-            [
-                204,
-                188,
-                173
-            ],
-            [
-                75,
                 64,
-                63
+                59,
+                45
+            ],
+            [
+                125,
+                126,
+                126
             ]
         ]
     },
     {
-        "filename": "images\\Salzgitter Stahlwerk.jpg",
+        "filename": "images\\Alexandria - Egypt.jpg",
         "size": [
             800,
             600
@@ -1857,205 +248,23 @@
         "dominant_colors": [
             [
                 139,
-                178,
-                226
-            ],
-            [
-                62,
-                90,
-                18
-            ],
-            [
-                78,
-                77,
-                59
-            ]
-        ]
-    },
-    {
-        "filename": "images\\San Salvador Montage.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                207,
-                208,
-                206
-            ],
-            [
-                106,
-                123,
-                147
-            ],
-            [
-                64,
-                66,
-                62
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Santiago en invierno.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                176,
-                184,
-                191
-            ],
-            [
-                75,
-                62,
-                51
-            ],
-            [
-                103,
-                151,
-                215
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Schloss Broich 0504.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                194,
-                221,
-                251
-            ],
-            [
-                76,
-                79,
-                78
-            ],
-            [
-                162,
-                155,
-                137
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Schlosswache mit Lambertikirche.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                75,
-                72,
-                59
-            ],
-            [
-                91,
                 128,
-                158
+                125
             ],
             [
-                198,
-                196,
-                184
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Siegen - panoramio (9).jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                150,
-                144,
-                116
+                38,
+                32,
+                38
             ],
             [
-                134,
-                180,
-                230
-            ],
-            [
-                57,
-                57,
-                53
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Sucre capital de Bolivia.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                69,
-                55,
-                50
-            ],
-            [
-                205,
-                208,
-                220
-            ],
-            [
-                117,
-                116,
-                122
-            ]
-        ]
-    },
-    {
-        "filename": "images\\Tambov TransgfigurationCathedral 101 0477.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "dominant_colors": [
-            [
-                75,
-                65,
-                53
-            ],
-            [
-                188,
-                189,
-                197
-            ],
-            [
-                142,
-                128,
+                210,
+                163,
                 117
             ]
         ]
     },
     {
-        "filename": "images\\Tegucigalpa desde el picacho en septiembre.jpg",
+        "filename": "images\\Altes Rathaus Bonn.jpg",
         "size": [
             800,
             600
@@ -2064,24 +273,24 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                42,
-                43,
-                41
+                191,
+                168,
+                159
             ],
             [
-                208,
-                206,
-                200
+                233,
+                235,
+                246
             ],
             [
-                101,
-                107,
-                116
+                96,
+                80,
+                77
             ]
         ]
     },
     {
-        "filename": "images\\The National Assembly Globe.jpg",
+        "filename": "images\\Amdavad Aerial.jpg",
         "size": [
             800,
             600
@@ -2090,24 +299,128 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                216,
-                223,
+                57,
+                54,
+                54
+            ],
+            [
+                186,
+                187,
+                184
+            ],
+            [
+                106,
+                110,
+                94
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Amsterdam airphoto.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                47,
+                45,
+                43
+            ],
+            [
+                137,
+                135,
+                143
+            ],
+            [
+                86,
+                86,
+                94
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Atomium, Br\u00fcssel 2.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                152,
+                191,
+                223
+            ],
+            [
+                33,
+                35,
+                33
+            ],
+            [
+                152,
+                144,
+                123
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Big Manila.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                129,
+                126,
+                123
+            ],
+            [
+                62,
+                55,
+                47
+            ],
+            [
+                169,
+                172,
+                178
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Boston Financial District skyline.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                78,
+                150,
                 217
             ],
             [
-                178,
-                211,
-                239
+                62,
+                72,
+                81
             ],
             [
-                84,
-                149,
-                191
+                186,
+                193,
+                200
             ]
         ]
     },
     {
-        "filename": "images\\Trier 126x.jpg",
+        "filename": "images\\Brussels view from Mont des Arts, Brussels, Belgium (cropped).jpg",
         "size": [
             800,
             600
@@ -2116,24 +429,752 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                71,
-                91,
-                130
+                152,
+                171,
+                201
             ],
             [
-                166,
-                181,
-                205
-            ],
-            [
-                54,
                 66,
-                64
+                67,
+                67
+            ],
+            [
+                178,
+                170,
+                157
             ]
         ]
     },
     {
-        "filename": "images\\Ulm Donauschwabenufer1.jpg",
+        "filename": "images\\Buenos Aires - Puerto Madero.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                109,
+                150,
+                196
+            ],
+            [
+                189,
+                209,
+                222
+            ],
+            [
+                57,
+                64,
+                76
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Chennai train station.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                55,
+                46,
+                41
+            ],
+            [
+                96,
+                131,
+                179
+            ],
+            [
+                178,
+                146,
+                139
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Cityscape Berlin.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                43,
+                60,
+                26
+            ],
+            [
+                173,
+                199,
+                223
+            ],
+            [
+                96,
+                90,
+                107
+            ]
+        ]
+    },
+    {
+        "filename": "images\\DCmontage2.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                47,
+                49,
+                41
+            ],
+            [
+                151,
+                181,
+                241
+            ],
+            [
+                183,
+                174,
+                169
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Dortmund Panorama.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                146,
+                138,
+                143
+            ],
+            [
+                68,
+                48,
+                39
+            ],
+            [
+                141,
+                106,
+                90
+            ]
+        ]
+    },
+    {
+        "filename": "images\\DubaiCollage.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                200,
+                200,
+                201
+            ],
+            [
+                114,
+                93,
+                70
+            ],
+            [
+                46,
+                86,
+                121
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Duquesne Incline (50076338942) (cropped).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                130,
+                129,
+                111
+            ],
+            [
+                201,
+                215,
+                221
+            ],
+            [
+                53,
+                54,
+                39
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Geneva from Mount Sal\u00e8ve.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                155,
+                146,
+                132
+            ],
+            [
+                112,
+                137,
+                173
+            ],
+            [
+                48,
+                49,
+                47
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Genova panorama centro storico da villetta Di Negro.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                50,
+                53,
+                44
+            ],
+            [
+                93,
+                153,
+                203
+            ],
+            [
+                145,
+                141,
+                114
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Ghent - centre.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                184,
+                201,
+                245
+            ],
+            [
+                168,
+                167,
+                167
+            ],
+            [
+                77,
+                79,
+                81
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Heilbronn Innenstadt u Wartberg 20050918.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                159,
+                107,
+                94
+            ],
+            [
+                189,
+                200,
+                211
+            ],
+            [
+                89,
+                91,
+                89
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Hoge der Aa2.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                127,
+                114,
+                100
+            ],
+            [
+                49,
+                45,
+                40
+            ],
+            [
+                181,
+                197,
+                210
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Islamabad skyline.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                125,
+                140,
+                159
+            ],
+            [
+                59,
+                69,
+                58
+            ],
+            [
+                186,
+                184,
+                154
+            ]
+        ]
+    },
+    {
+        "filename": "images\\ISS-38 Nighttime image of Moscow, Russia.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                53,
+                38,
+                17
+            ],
+            [
+                107,
+                84,
+                43
+            ],
+            [
+                13,
+                8,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "images\\ISS043-E-159631 - View of Earth.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                103,
+                100,
+                104
+            ],
+            [
+                154,
+                152,
+                152
+            ],
+            [
+                71,
+                75,
+                83
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Karlsruhe asv2022-10 img07 Schloss Karlsruhe.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                165,
+                169,
+                182
+            ],
+            [
+                77,
+                70,
+                57
+            ],
+            [
+                125,
+                121,
+                71
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Katowice Rynek.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                200,
+                208,
+                214
+            ],
+            [
+                95,
+                100,
+                110
+            ],
+            [
+                25,
+                25,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "images\\KingsCollegeChapelWest.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                98,
+                158,
+                225
+            ],
+            [
+                48,
+                52,
+                51
+            ],
+            [
+                142,
+                141,
+                93
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Landungsbr\u00fccken Hamburg.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                99,
+                120,
+                152
+            ],
+            [
+                199,
+                211,
+                225
+            ],
+            [
+                103,
+                82,
+                69
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Large Beijing Landsat.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                46,
+                35,
+                28
+            ],
+            [
+                135,
+                122,
+                108
+            ],
+            [
+                191,
+                182,
+                170
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Lausanne img 0585.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                116,
+                113,
+                121
+            ],
+            [
+                198,
+                198,
+                205
+            ],
+            [
+                50,
+                53,
+                45
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Loire Indre Tours1 tango7174.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                10,
+                9,
+                5
+            ],
+            [
+                160,
+                131,
+                95
+            ],
+            [
+                69,
+                52,
+                24
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Los Angeles with Mount Baldy.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                203,
+                160,
+                164
+            ],
+            [
+                35,
+                30,
+                42
+            ],
+            [
+                93,
+                83,
+                111
+            ]
+        ]
+    },
+    {
+        "filename": "images\\MaastrichtAltstadt.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                184,
+                189,
+                199
+            ],
+            [
+                41,
+                47,
+                47
+            ],
+            [
+                117,
+                120,
+                102
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Mexico City, Mexico (5461525692).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                159,
+                113,
+                142
+            ],
+            [
+                162,
+                165,
+                133
+            ],
+            [
+                70,
+                71,
+                43
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Milano piazza Duomo.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                55,
+                54,
+                60
+            ],
+            [
+                113,
+                157,
+                197
+            ],
+            [
+                165,
+                156,
+                147
+            ]
+        ]
+    },
+    {
+        "filename": "images\\NN 01-09-2021 06.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                209,
+                209,
+                204
+            ],
+            [
+                67,
+                62,
+                54
+            ],
+            [
+                138,
+                132,
+                137
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Novosibirsk view.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                49,
+                45,
+                42
+            ],
+            [
+                180,
+                170,
+                160
+            ],
+            [
+                106,
+                107,
+                113
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Padua - Prato della Valle.jpg",
         "size": [
             800,
             600
@@ -2143,23 +1184,23 @@
         "dominant_colors": [
             [
                 164,
-                188,
-                230
+                180,
+                200
             ],
             [
-                107,
-                103,
-                89
+                81,
+                79,
+                53
             ],
             [
-                41,
-                44,
-                36
+                174,
+                168,
+                153
             ]
         ]
     },
     {
-        "filename": "images\\Witten 20090218.jpg",
+        "filename": "images\\Panorama modena 09.jpg",
         "size": [
             800,
             600
@@ -2168,54 +1209,362 @@
         "mode": "RGB",
         "dominant_colors": [
             [
-                62,
-                54,
-                58
+                182,
+                196,
+                208
             ],
             [
-                122,
-                103,
-                100
-            ],
-            [
-                201,
-                184,
-                156
-            ]
-        ]
-    },
-    {
-        "filename": "images\\\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434 \u0441 \u0430\u044d\u0440\u043e\u0441\u0442\u0430\u0442\u0430 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2014 10.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG",
-        "mode": "RGB",
-        "exif": {
-            "ExifOffset": 338,
-            "Artist": "tamere"
-        },
-        "dominant_colors": [
-            [
-                46,
-                54,
-                51
+                98,
+                76,
+                59
             ],
             [
                 189,
-                182,
-                172
-            ],
-            [
-                106,
-                108,
-                100
+                148,
+                113
             ]
         ]
     },
     {
-        "filename": "images\\\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0412\u0416\u0414.jpg",
+        "filename": "images\\Perm Russia.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                165,
+                162,
+                179
+            ],
+            [
+                68,
+                72,
+                73
+            ],
+            [
+                175,
+                94,
+                83
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Peter & Paul fortress in SPB 03.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                164,
+                170,
+                173
+            ],
+            [
+                104,
+                129,
+                156
+            ],
+            [
+                79,
+                74,
+                64
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Place lazare goujon.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                207,
+                205,
+                203
+            ],
+            [
+                8,
+                71,
+                144
+            ],
+            [
+                71,
+                72,
+                73
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Plovdiv mosaic 1.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                196,
+                207,
+                212
+            ],
+            [
+                44,
+                46,
+                50
+            ],
+            [
+                124,
+                117,
+                97
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Raffles Place.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                145,
+                158,
+                191
+            ],
+            [
+                64,
+                58,
+                57
+            ],
+            [
+                127,
+                110,
+                82
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Russian church (37591925970).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                181,
+                165,
+                161
+            ],
+            [
+                63,
+                64,
+                76
+            ],
+            [
+                96,
+                65,
+                41
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Rynek Ko\u015bciuszki, Bia\u0142ystok (2).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                40,
+                32,
+                31
+            ],
+            [
+                166,
+                156,
+                155
+            ],
+            [
+                88,
+                95,
+                112
+            ]
+        ]
+    },
+    {
+        "filename": "images\\SalernoCanalone.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                42,
+                40,
+                32
+            ],
+            [
+                146,
+                126,
+                111
+            ],
+            [
+                186,
+                197,
+                215
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Samara - Port (2008-07-13).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                78,
+                75,
+                78
+            ],
+            [
+                210,
+                202,
+                200
+            ],
+            [
+                120,
+                134,
+                169
+            ]
+        ]
+    },
+    {
+        "filename": "images\\San Francisco from the Marin Headlands in March 2019.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                165,
+                215,
+                242
+            ],
+            [
+                82,
+                125,
+                157
+            ],
+            [
+                97,
+                83,
+                27
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Sao Paulo Skyline in Brazil.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                46,
+                49,
+                49
+            ],
+            [
+                193,
+                180,
+                164
+            ],
+            [
+                109,
+                108,
+                103
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Sebastian Glapinski 2017 (Unsplash).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                164,
+                103,
+                88
+            ],
+            [
+                46,
+                57,
+                60
+            ],
+            [
+                164,
+                192,
+                202
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Stadtbild K\u00f6ln (50MP).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                105,
+                120,
+                124
+            ],
+            [
+                180,
+                202,
+                227
+            ],
+            [
+                70,
+                73,
+                55
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Stare Miasto w Poznaniu.jpg",
         "size": [
             800,
             600
@@ -2225,44 +1574,434 @@
         "dominant_colors": [
             [
                 48,
-                40,
-                50
+                50,
+                68
             ],
             [
-                121,
-                140,
-                189
+                186,
+                199,
+                219
             ],
             [
-                205,
-                142,
-                117
+                169,
+                125,
+                100
             ]
         ]
     },
     {
-        "filename": "images\\\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440.png",
+        "filename": "images\\Stone Bridge Skopje 4.jpg",
         "size": [
             800,
             600
         ],
-        "format": "PNG",
+        "format": "JPEG",
         "mode": "RGB",
         "dominant_colors": [
             [
-                136,
-                118,
-                80
+                188,
+                192,
+                202
             ],
             [
-                187,
-                204,
+                57,
+                50,
+                50
+            ],
+            [
+                114,
+                123,
+                131
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Szczecin aerial 3a.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                148,
+                131,
+                113
+            ],
+            [
+                63,
+                63,
+                73
+            ],
+            [
+                82,
+                67,
+                41
+            ]
+        ]
+    },
+    {
+        "filename": "images\\The Upper City of Bergamo. View from Via al Castello. Italy.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                174,
+                183,
+                191
+            ],
+            [
+                58,
+                53,
+                43
+            ],
+            [
+                111,
+                96,
+                54
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Tokyo Japan taken by Hodoyoshi-3 Satellite.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                165,
+                120,
+                152
+            ],
+            [
+                53,
+                105,
+                45
+            ],
+            [
+                21,
+                21,
+                29
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Tomsk, view from the fire-observation tower.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                61,
+                51,
+                52
+            ],
+            [
+                209,
+                219,
+                236
+            ],
+            [
+                144,
+                176,
+                219
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Toronto Montage 2020.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                185,
+                192,
+                204
+            ],
+            [
+                88,
+                140,
+                207
+            ],
+            [
+                75,
+                78,
+                67
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Toronto Skyline March 2023 14.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                165,
+                170,
+                164
+            ],
+            [
+                92,
+                147,
+                210
+            ],
+            [
+                74,
+                78,
+                83
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Trieste (28766391880).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                90,
+                149,
+                221
+            ],
+            [
+                183,
+                166,
+                157
+            ],
+            [
+                66,
+                66,
+                30
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Urz\u0105d miasta.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                221,
+                205,
+                192
+            ],
+            [
+                53,
+                118,
+                187
+            ],
+            [
+                79,
+                63,
+                58
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Venice Old Town Lagoon Aerial View.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                10,
+                46,
+                75
+            ],
+            [
+                31,
+                46,
+                35
+            ],
+            [
+                155,
+                115,
+                87
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Views of Yekaterinburg from Vysotsky viewpoint - 12.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                86,
+                152,
+                210
+            ],
+            [
+                71,
+                90,
+                88
+            ],
+            [
+                173,
+                177,
+                182
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Vista de Tiflis, Georgia, 2016-09-29, DD 67-71 PAN.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                68,
+                64,
+                53
+            ],
+            [
+                112,
+                172,
+                233
+            ],
+            [
+                191,
+                179,
+                170
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Vue sud-ouest de la place du parlement de Bretagne, Rennes, France.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                207,
+                210,
                 218
             ],
             [
-                60,
+                52,
+                64,
+                16
+            ],
+            [
+                116,
+                104,
+                90
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Zagreb (29255640143).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                74,
                 63,
-                71
+                60
+            ],
+            [
+                176,
+                191,
+                217
+            ],
+            [
+                183,
+                153,
+                133
+            ]
+        ]
+    },
+    {
+        "filename": "images\\Zicht op Zwolle Centrum.jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                90,
+                83,
+                43
+            ],
+            [
+                67,
+                71,
+                77
+            ],
+            [
+                170,
+                202,
+                237
+            ]
+        ]
+    },
+    {
+        "filename": "images\\\u04e8\u0424\u04e8-2015-(v2).jpg",
+        "size": [
+            800,
+            600
+        ],
+        "format": "JPEG",
+        "mode": "RGB",
+        "dominant_colors": [
+            [
+                161,
+                203,
+                236
+            ],
+            [
+                112,
+                115,
+                123
+            ],
+            [
+                35,
+                23,
+                27
             ]
         ]
     }
