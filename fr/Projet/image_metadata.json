@@ -1,5 +1,59 @@
 [
     {
+        "Filename": "Ciudad de Chill\u00e1n.png",
+        "Metadata": {
+            "File Size": 2932269,
+            "Image Format": "PNG",
+            "Image Size": [
+                1026,
+                1370
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Pointe des Almadies - Senegal.jpg",
+        "Metadata": {
+            "GPSInfo": 856,
+            "PhotometricInterpretation": 32803,
+            "ResolutionUnit": 2,
+            "ExifOffset": 226,
+            "Make": "RICOH      ",
+            "Model": "GR DIGITAL 3   ",
+            "Software": "Aperture 3.1.3",
+            "Orientation": 1,
+            "DateTime": "2011:07:20 17:43:44",
+            "File Size": 2504313,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3543,
+                2648
+            ]
+        }
+    },
+    {
+        "Filename": "Koblenz - Panorama von Festung Ehrenbreitstein.jpg",
+        "Metadata": {
+            "GPSInfo": 14728,
+            "ResolutionUnit": 2,
+            "ExifOffset": 380,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D800",
+            "Software": "Capture NX 2.4.7 W",
+            "Orientation": 1,
+            "DateTime": "2015:06:11 11:28:47",
+            "YCbCrPositioning": 1,
+            "Copyright": "Wladyslaw Sojka, www.sojka.photo",
+            "Artist": "Wladyslaw Sojka/Taxiarchos228",
+            "File Size": 26744549,
+            "Image Format": "JPEG",
+            "Image Size": [
+                15914,
+                4615
+            ]
+        }
+    },
+    {
         "Filename": "Curitiba Eixos e densidade 78 (24160257688).jpg",
         "Metadata": {
             "ResolutionUnit": 2,
@@ -16,6 +70,99 @@
             "Image Size": [
                 1200,
                 800
+            ]
+        }
+    },
+    {
+        "Filename": "Bari - Piazza del Ferrarese.JPG",
+        "Metadata": {
+            "File Size": 41024,
+            "Image Format": "JPEG",
+            "Image Size": [
+                596,
+                398
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Algiers in the morning.jpg",
+        "Metadata": {
+            "ImageWidth": 2048,
+            "ImageLength": 1190,
+            "GPSInfo": 545,
+            "ExifOffset": 106,
+            "Orientation": 0,
+            "DateTime": "2023:12:17 09:19:00",
+            "File Size": 1506910,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1190
+            ]
+        }
+    },
+    {
+        "Filename": "Bottrop - Altmarkt 02 ies.jpg",
+        "Metadata": {
+            "GPSInfo": 8503,
+            "ResolutionUnit": 2,
+            "ExifOffset": 221,
+            "Make": "Canon",
+            "Model": "Canon EOS 5D Mark II",
+            "Orientation": 1,
+            "DateTime": "2013:04:21 11:37:56",
+            "YCbCrPositioning": 2,
+            "Copyright": "",
+            "Artist": "",
+            "File Size": 9853754,
+            "Image Format": "JPEG",
+            "Image Size": [
+                5616,
+                3744
+            ]
+        }
+    },
+    {
+        "Filename": "Libreville1.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 222,
+            "ImageDescription": "          ",
+            "Make": "NIKON",
+            "Model": "E5000",
+            "Software": "E5000v1.6",
+            "Orientation": 1,
+            "DateTime": "2005:03:24 16:47:52",
+            "YCbCrPositioning": 2,
+            "File Size": 249947,
+            "Image Format": "JPEG",
+            "Image Size": [
+                908,
+                584
+            ]
+        }
+    },
+    {
+        "Filename": "00 3178 Sydney, Australia.jpg",
+        "Metadata": {
+            "ImageWidth": 3072,
+            "ImageLength": 2048,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 300,
+            "Make": "Canon",
+            "Model": "Canon EOS 10D",
+            "Software": "Adobe Photoshop Elements 18.0 (Macintosh)",
+            "Orientation": 1,
+            "DateTime": "2021:05:17 10:53:12",
+            "YCbCrPositioning": 1,
+            "SamplesPerPixel": 3,
+            "File Size": 5185440,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2942,
+                1800
             ]
         }
     },
@@ -40,6 +187,21 @@
         }
     },
     {
+        "Filename": "San Salvador Montage.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "Make": "BeFunky",
+            "Software": "BeFunky Photo Editor",
+            "Orientation": 1,
+            "File Size": 10320706,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2528,
+                3264
+            ]
+        }
+    },
+    {
         "Filename": "Indian-Nepalese border gate at Birgunj.jpg",
         "Metadata": {
             "File Size": 126394,
@@ -47,6 +209,18 @@
             "Image Size": [
                 666,
                 592
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "15-Nouakchott-eH-R0058185.jpg",
+        "Metadata": {
+            "File Size": 1236168,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1280,
+                960
             ],
             "Orientation": "Undefined"
         }
@@ -76,6 +250,37 @@
         }
     },
     {
+        "Filename": "Blick vom Rathausturm \u00fcber Gera.jpg",
+        "Metadata": {
+            "File Size": 934919,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2272,
+                1704
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Canberra from Mt Ainslie (5642431515).jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 228,
+            "Make": "Canon",
+            "Model": "Canon EOS 450D",
+            "Software": "Adobe Photoshop Elements 8.0 Windows",
+            "Orientation": 1,
+            "DateTime": "2011:04:22 18:46:25",
+            "YCbCrPositioning": 2,
+            "File Size": 3848615,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4272,
+                2848
+            ]
+        }
+    },
+    {
         "Filename": "Montage-of-Makhachkala-(2016).png",
         "Metadata": {
             "File Size": 2466964,
@@ -85,6 +290,53 @@
                 1400
             ],
             "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Herne, Blick auf Europaplatz mit Kreuzkirche.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 196,
+            "Make": "Canon",
+            "Model": "Canon DIGITAL IXUS 800 IS",
+            "Orientation": 1,
+            "DateTime": "2008:05:03 17:51:31",
+            "YCbCrPositioning": 1,
+            "File Size": 3825976,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2816,
+                2112
+            ]
+        }
+    },
+    {
+        "Filename": "Addis abeba meskele square.jpg",
+        "Metadata": {
+            "File Size": 1456763,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1536,
+                2048
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "At night in Algiers, Algeria.jpg",
+        "Metadata": {
+            "ImageWidth": 2048,
+            "ImageLength": 912,
+            "GPSInfo": 545,
+            "ExifOffset": 106,
+            "Orientation": 0,
+            "DateTime": "2023:09:06 19:36:47",
+            "File Size": 1377657,
+            "Image Format": "MPO",
+            "Image Size": [
+                2048,
+                912
+            ]
         }
     },
     {
@@ -108,6 +360,130 @@
         }
     },
     {
+        "Filename": "Tegucigalpa desde el picacho en septiembre.jpg",
+        "Metadata": {
+            "File Size": 1393040,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2280,
+                1080
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Place de la nation2 (Tchad).jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 308,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-H400",
+            "Software": "  3.0000",
+            "Orientation": 1,
+            "DateTime": "2018:12:23 14:54:14",
+            "YCbCrPositioning": 2,
+            "Copyright": "Copyright 2009",
+            "File Size": 6475589,
+            "Image Format": "MPO",
+            "Image Size": [
+                5152,
+                3864
+            ]
+        }
+    },
+    {
+        "Filename": "Leverkusen-Schloss-Morsbroich Hauptgeb\u00e4ude.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 232,
+            "ImageDescription": "          ",
+            "Make": "NIKON",
+            "Model": "E8400",
+            "Software": "Adobe Photoshop CS Windows",
+            "Orientation": 1,
+            "DateTime": "2004:11:26 19:30:29",
+            "YCbCrPositioning": 2,
+            "File Size": 1357803,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1500,
+                865
+            ]
+        }
+    },
+    {
+        "Filename": "Schloss Wolfsburg Sued-West.JPG",
+        "Metadata": {
+            "File Size": 96012,
+            "Image Format": "JPEG",
+            "Image Size": [
+                723,
+                559
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Berliner Platz Guetersloh Proedous.jpg",
+        "Metadata": {
+            "File Size": 1433515,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2288,
+                1712
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Perugia panoramic.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 164,
+            "Software": "Adobe Photoshop CS3 Macintosh",
+            "Orientation": 1,
+            "DateTime": "2011:04:19 17:25:02",
+            "File Size": 2075588,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2590,
+                900
+            ]
+        }
+    },
+    {
+        "Filename": "Algiers Icon.png",
+        "Metadata": {
+            "File Size": 12135,
+            "Image Format": "PNG",
+            "Image Size": [
+                700,
+                568
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Zentrum Jenas 2008-05-24.JPG",
+        "Metadata": {
+            "GPSInfo": 8126,
+            "ResolutionUnit": 2,
+            "ExifOffset": 190,
+            "Make": "Canon",
+            "Model": "Canon EOS 40D",
+            "Orientation": 1,
+            "DateTime": "2010:02:26 19:42:33",
+            "YCbCrPositioning": 2,
+            "File Size": 3479935,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3888,
+                2592
+            ]
+        }
+    },
+    {
         "Filename": "\u041a\u0440\u044b\u0442\u044b\u0439 \u0440\u044b\u043d\u043e\u043a. \u0421\u0430\u0440\u0430\u0442\u043e\u0432.jpg",
         "Metadata": {
             "ExifOffset": 107,
@@ -124,6 +500,63 @@
         }
     },
     {
+        "Filename": "Recklinghausen, Rathaus -- 2015 -- 7398.jpg",
+        "Metadata": {
+            "GPSInfo": 886,
+            "ResolutionUnit": 2,
+            "ExifOffset": 292,
+            "Make": "Canon",
+            "Model": "Canon EOS 70D",
+            "Software": "Adobe Photoshop Lightroom Classic 8.0 (Macintosh)",
+            "DateTime": "2018:11:16 12:06:17",
+            "Copyright": "Dietmar Rabich, D\u00c3\u00bclmen",
+            "Artist": "Dietmar Rabich",
+            "File Size": 7823732,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4742,
+                3334
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Siegen - panoramio (9).jpg",
+        "Metadata": {
+            "GPSInfo": 964,
+            "ResolutionUnit": 2,
+            "ExifOffset": 372,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D5100",
+            "Software": "Adobe Photoshop CS5 (12.0x20100115 [20100115.m.998 2010/01/15:02:00:00 cutoff; m branch])  Windows",
+            "Orientation": 1,
+            "DateTime": "2013:10:21 13:40:43",
+            "YCbCrPositioning": 1,
+            "File Size": 11951703,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4928,
+                3264
+            ]
+        }
+    },
+    {
+        "Filename": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434 \u0441 \u0430\u044d\u0440\u043e\u0441\u0442\u0430\u0442\u0430 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2014 10.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 162,
+            "Software": "Adobe Photoshop Lightroom 5.0 (Windows)",
+            "DateTime": "2014:08:07 14:17:42",
+            "File Size": 925844,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                683
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
         "Filename": "Montagem RJ.jpg",
         "Metadata": {
             "File Size": 1539940,
@@ -136,6 +569,94 @@
         }
     },
     {
+        "Filename": "Heidelberg corr.jpg",
+        "Metadata": {
+            "File Size": 1148052,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2240,
+                1680
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Reutlingen T\u00fcbinger Tor 2012-04.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 254,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-H1",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2012:04:27 22:52:12",
+            "YCbCrPositioning": 1,
+            "File Size": 3590531,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2592,
+                1458
+            ]
+        }
+    },
+    {
+        "Filename": "Ulm Donauschwabenufer1.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 196,
+            "Make": "Canon",
+            "Model": "Canon DIGITAL IXUS 800 IS",
+            "Orientation": 1,
+            "DateTime": "2006:02:28 13:51:03",
+            "YCbCrPositioning": 1,
+            "File Size": 1624410,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2703,
+                2101
+            ]
+        }
+    },
+    {
+        "Filename": "Solingen Innenstadt 002.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 216,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D60",
+            "Software": "Ver.1.01 ",
+            "Orientation": 1,
+            "DateTime": "2009:09:12 12:58:02",
+            "YCbCrPositioning": 2,
+            "File Size": 3786673,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3872,
+                2592
+            ]
+        }
+    },
+    {
+        "Filename": "Niamey night.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 216,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D50",
+            "Software": "Ver.1.00 ",
+            "Orientation": 1,
+            "DateTime": "2006:03:18 01:36:44",
+            "YCbCrPositioning": 2,
+            "File Size": 2760995,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3008,
+                2000
+            ]
+        }
+    },
+    {
         "Filename": "Samarqand.jpg",
         "Metadata": {
             "File Size": 34105,
@@ -145,6 +666,82 @@
                 321
             ],
             "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "20130610 - Monumento aos Her\u00f3is da Independ\u00eancia.jpg",
+        "Metadata": {
+            "GPSInfo": 864,
+            "ResolutionUnit": 2,
+            "ExifOffset": 250,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D5100",
+            "Software": "Adobe Photoshop Lightroom 4.4 (Windows)",
+            "DateTime": "2013:06:30 14:23:26",
+            "Copyright": "jbdodane",
+            "File Size": 1964601,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4928,
+                3264
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Algiers Montage.png",
+        "Metadata": {
+            "File Size": 9339262,
+            "Image Format": "PNG",
+            "Image Size": [
+                2363,
+                2424
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Nicosia 01-2017 img23 View from Shacolas Tower.jpg",
+        "Metadata": {
+            "ImageWidth": 5472,
+            "ImageLength": 3648,
+            "GPSInfo": 900,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 356,
+            "Make": "Canon",
+            "Model": "Canon EOS 7D Mark II",
+            "Software": "Adobe Photoshop CC (Windows)",
+            "Orientation": 1,
+            "DateTime": "2017:02:02 02:27:35",
+            "SamplesPerPixel": 3,
+            "Copyright": "A.Savin, http://WikiPhoto.Space",
+            "Artist": "A.Savin",
+            "File Size": 6315254,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4434,
+                2772
+            ]
+        }
+    },
+    {
+        "Filename": "Ausblick Bergisch Gladbach.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 258,
+            "Make": "Sony Ericsson",
+            "Model": "K750i",
+            "Software": "R1J002      prgCXC125952_EU_1_CL 0.0",
+            "Orientation": 1,
+            "DateTime": "2005:10:12 12:48:10",
+            "YCbCrPositioning": 2,
+            "File Size": 341510,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1632,
+                1224
+            ]
         }
     },
     {
@@ -165,6 +762,145 @@
             "Image Size": [
                 2560,
                 1920
+            ]
+        }
+    },
+    {
+        "Filename": "Schlosswache mit Lambertikirche.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 294,
+            "ImageDescription": "MEDION DIGITAL CAMERA \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Make": "MEDION AG \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Model": " \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2005:06:22 16:51:33",
+            "YCbCrPositioning": 1,
+            "File Size": 146046,
+            "Image Format": "JPEG",
+            "Image Size": [
+                800,
+                661
+            ]
+        }
+    },
+    {
+        "Filename": "AnkonPanorama.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 164,
+            "Software": "Adobe Photoshop CS3 Windows",
+            "Orientation": 1,
+            "DateTime": "2011:08:24 09:41:31",
+            "File Size": 978417,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3072,
+                2048
+            ]
+        }
+    },
+    {
+        "Filename": "Central Algeria at night.jpg",
+        "Metadata": {
+            "File Size": 120725,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                681
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Argel 3.jpg",
+        "Metadata": {
+            "GPSInfo": 1040,
+            "ResolutionUnit": 2,
+            "ExifOffset": 364,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D300",
+            "Software": "Adobe Photoshop CS Windows",
+            "Orientation": 1,
+            "DateTime": "2018:03:02 11:31:40",
+            "YCbCrPositioning": 2,
+            "File Size": 11286590,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4288,
+                2724
+            ]
+        }
+    },
+    {
+        "Filename": "Dom zu paderborn1.jpg",
+        "Metadata": {
+            "File Size": 139659,
+            "Image Format": "JPEG",
+            "Image Size": [
+                700,
+                828
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Offenbacher-mainbogen-flussabw\u00e4rts001.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 256,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-W12",
+            "Orientation": 1,
+            "DateTime": "2006:09:01 14:04:11",
+            "YCbCrPositioning": 2,
+            "File Size": 1641582,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2592,
+                1728
+            ]
+        }
+    },
+    {
+        "Filename": "Beirutcity.jpg",
+        "Metadata": {
+            "File Size": 85621,
+            "Image Format": "JPEG",
+            "Image Size": [
+                800,
+                522
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0412\u0416\u0414.jpg",
+        "Metadata": {
+            "File Size": 154366,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1200,
+                480
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Santiago en invierno.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 164,
+            "Software": "Adobe Photoshop CS2 Windows",
+            "Orientation": 1,
+            "DateTime": "2007:12:15 17:25:17",
+            "File Size": 508807,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                773
             ]
         }
     },
@@ -190,6 +926,146 @@
         }
     },
     {
+        "Filename": "Asmara2.jpg",
+        "Metadata": {
+            "File Size": 454707,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                683
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Panorama Nagold, Stadtkirche und Enz (1).jpg",
+        "Metadata": {
+            "ResolutionUnit": 1,
+            "ExifOffset": 134,
+            "Make": "Panasonic",
+            "Model": "DMC-TZ18",
+            "YCbCrPositioning": 1,
+            "File Size": 9645418,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3943,
+                1965
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Panoramique du centre de Tunis (3197369985) (cropped).jpg",
+        "Metadata": {
+            "GPSInfo": 896,
+            "ResolutionUnit": 2,
+            "ExifOffset": 240,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D300",
+            "Software": "Adobe Photoshop CS4 Windows",
+            "Orientation": 1,
+            "DateTime": "2009:01:15 00:59:51",
+            "YCbCrPositioning": 2,
+            "File Size": 3272000,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4288,
+                2496
+            ]
+        }
+    },
+    {
+        "Filename": "Tambov TransgfigurationCathedral 101 0477.jpg",
+        "Metadata": {
+            "ImageWidth": 5464,
+            "ImageLength": 3640,
+            "GPSInfo": 888,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 3,
+            "ExifOffset": 276,
+            "Make": "DJI",
+            "Model": "FC6310",
+            "Software": "Adobe Photoshop CS6 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2021:09:29 12:10:31",
+            "SamplesPerPixel": 3,
+            "File Size": 12192662,
+            "Image Format": "JPEG",
+            "Image Size": [
+                5405,
+                3561
+            ]
+        }
+    },
+    {
+        "Filename": "Residenzschloss Darmstadt 539-Gdh.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 216,
+            "Make": "Panasonic",
+            "Model": "DMC-LZ8",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2011:11:24 19:28:04",
+            "YCbCrPositioning": 1,
+            "File Size": 477273,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1622,
+                1070
+            ]
+        }
+    },
+    {
+        "Filename": "Remscheid rathaus.jpg",
+        "Metadata": {
+            "File Size": 129214,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                667
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Sucre capital de Bolivia.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 196,
+            "Make": "Canon",
+            "Model": "Canon PowerShot S230",
+            "Orientation": 1,
+            "DateTime": "2005:12:26 17:48:59",
+            "YCbCrPositioning": 1,
+            "File Size": 400708,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1536
+            ]
+        }
+    },
+    {
+        "Filename": "Salzgitter Stahlwerk.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 236,
+            "Make": "Canon",
+            "Model": "Canon EOS 350D DIGITAL",
+            "Software": "Adobe Photoshop Lightroom 5.7 (Windows)",
+            "DateTime": "2015:01:12 17:10:31",
+            "Artist": "Holger",
+            "File Size": 2158898,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2040,
+                1360
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
         "Filename": "Barnaul (2021)-1.jpeg",
         "Metadata": {
             "GPSInfo": 2206,
@@ -211,6 +1087,95 @@
         }
     },
     {
+        "Filename": "Beograd collage.jpg",
+        "Metadata": {
+            "ImageWidth": 3460,
+            "ImageLength": 5356,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 272,
+            "Make": "SONY",
+            "Model": "DSC-RX100",
+            "Software": "Adobe Photoshop 21.2 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2021:10:02 18:08:16",
+            "SamplesPerPixel": 3,
+            "File Size": 859421,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                2048
+            ]
+        }
+    },
+    {
+        "Filename": "Marcus Aurelius Arch Tripoli Libya.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 232,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "CYBERSHOT",
+            "Orientation": 1,
+            "DateTime": "2006:11:18 10:55:37",
+            "YCbCrPositioning": 2,
+            "File Size": 1459843,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1536
+            ]
+        }
+    },
+    {
+        "Filename": "Djibouti City.jpg",
+        "Metadata": {
+            "File Size": 103542,
+            "Image Format": "JPEG",
+            "Image Size": [
+                698,
+                510
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Malabo a 13-oct-01.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 190,
+            "Make": "Eastman Kodak Company",
+            "Model": "KODAK DC290 Zoom Digital Camera (V01.00)",
+            "Orientation": 1,
+            "YCbCrPositioning": 1,
+            "File Size": 431925,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1792,
+                1200
+            ]
+        }
+    },
+    {
+        "Filename": "Ciprefectyakro.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 256,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-N2",
+            "Orientation": 1,
+            "DateTime": "2008:03:13 10:42:32",
+            "YCbCrPositioning": 2,
+            "File Size": 4809607,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3648,
+                2736
+            ]
+        }
+    },
+    {
         "Filename": "\u041a\u0440\u0435\u0441\u0442\u043e\u0432\u043e\u0437\u0434\u0432\u0438\u0436\u0435\u043d\u0441\u043a\u0430\u044f \u0446\u0435\u0440\u043a\u043e\u0432\u044c (\u0422\u044e\u043c\u0435\u043d\u044c)-2.jpg",
         "Metadata": {
             "File Size": 82649,
@@ -220,6 +1185,67 @@
                 467
             ],
             "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Neuss, Rathaus 2008.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 196,
+            "Make": "Canon",
+            "Model": "Canon DIGITAL IXUS 60",
+            "Orientation": 1,
+            "DateTime": "2008:09:25 13:42:57",
+            "YCbCrPositioning": 1,
+            "File Size": 1569810,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2816,
+                2112
+            ]
+        }
+    },
+    {
+        "Filename": "Elizabeth Quay February 2016 (cropped).jpg",
+        "Metadata": {
+            "ImageWidth": 22668,
+            "ImageLength": 13882,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 292,
+            "Make": "Canon",
+            "Model": "Canon EOS 700D",
+            "Software": "Adobe Photoshop CC 2014 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2016:02:20 19:01:00",
+            "YCbCrPositioning": 1,
+            "SamplesPerPixel": 3,
+            "File Size": 37705608,
+            "Image Format": "JPEG",
+            "Image Size": [
+                16243,
+                10828
+            ]
+        }
+    },
+    {
+        "Filename": "Witten 20090218.jpg",
+        "Metadata": {
+            "GPSInfo": 5220,
+            "ResolutionUnit": 2,
+            "ExifOffset": 250,
+            "Make": "PENTAX             ",
+            "Model": "PENTAX K20D        ",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2009:02:22 11:22:36",
+            "YCbCrPositioning": 1,
+            "File Size": 5846553,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4472,
+                2970
+            ]
         }
     },
     {
@@ -235,6 +1261,130 @@
         }
     },
     {
+        "Filename": "Bangui City Centre.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 172,
+            "Model": "\u001cRZ\u0002\u0001",
+            "Software": "Adobe Photoshop 7.0",
+            "Orientation": 1,
+            "DateTime": "2014:12:10 12:55:35",
+            "File Size": 1981288,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4000,
+                2226
+            ]
+        }
+    },
+    {
+        "Filename": "Alger monochrome.jpg",
+        "Metadata": {
+            "ImageWidth": 3264,
+            "ImageLength": 1836,
+            "GPSInfo": 92,
+            "ExifOffset": 74,
+            "Orientation": 0,
+            "File Size": 1517302,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3264,
+                1836
+            ]
+        }
+    },
+    {
+        "Filename": "Old city of Maskat.jpg",
+        "Metadata": {
+            "Software": "Google",
+            "ExifOffset": 46,
+            "File Size": 300392,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1259,
+                944
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Bujumbura.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 196,
+            "Make": "Canon",
+            "Model": "Canon DIGITAL IXUS 750",
+            "Orientation": 1,
+            "DateTime": "2006:11:07 21:11:08",
+            "YCbCrPositioning": 1,
+            "File Size": 645690,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3072,
+                2304
+            ]
+        }
+    },
+    {
+        "Filename": "Ludwigshafenmitte ausderluft.jpg",
+        "Metadata": {
+            "File Size": 669492,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1200,
+                701
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Montaje de Antofagasta.jpg",
+        "Metadata": {
+            "File Size": 1151389,
+            "Image Format": "JPEG",
+            "Image Size": [
+                675,
+                1167
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Melbourne montage 6.jpg",
+        "Metadata": {
+            "ResolutionUnit": 3,
+            "ExifOffset": 168,
+            "Software": "Adobe Photoshop CC (Macintosh)",
+            "Orientation": 1,
+            "DateTime": "2015:07:29 12:39:58",
+            "File Size": 330045,
+            "Image Format": "JPEG",
+            "Image Size": [
+                595,
+                822
+            ]
+        }
+    },
+    {
+        "Filename": "Hildesheim - Blick vom Bergh\u00f6zchen.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 334,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-R1",
+            "Orientation": 1,
+            "DateTime": "2008:09:06 15:10:45",
+            "YCbCrPositioning": 2,
+            "File Size": 4329117,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3888,
+                2592
+            ]
+        }
+    },
+    {
         "Filename": "Seattle aerial 2, May 2023.png",
         "Metadata": {
             "File Size": 3668193,
@@ -247,6 +1397,86 @@
         }
     },
     {
+        "Filename": "Algiers's Airport.jpg",
+        "Metadata": {
+            "ImageWidth": 4224,
+            "ImageLength": 2368,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 284,
+            "Make": "HTC",
+            "Model": "HTC Desire 820",
+            "Software": "Adobe Photoshop 21.1 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2020:06:15 15:22:00",
+            "YCbCrPositioning": 1,
+            "SamplesPerPixel": 3,
+            "File Size": 1103409,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4224,
+                2368
+            ]
+        }
+    },
+    {
+        "Filename": "Erlangen 08-2012.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 231,
+            "ImageDescription": "Erlangen",
+            "Make": "SONY",
+            "Model": "DSC-H1",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2012:08:23 21:20:42",
+            "YCbCrPositioning": 1,
+            "File Size": 2587720,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2592,
+                1458
+            ]
+        }
+    },
+    {
+        "Filename": "The National Assembly Globe.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 224,
+            "Make": "Canon",
+            "Model": "Canon EOS 5D Mark IV",
+            "Software": "Adobe Photoshop Lightroom Classic 7.2 (Macintosh)",
+            "DateTime": "2018:06:20 16:30:15",
+            "File Size": 1730471,
+            "Image Format": "JPEG",
+            "Image Size": [
+                6108,
+                3976
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Quartier OCH.jpg",
+        "Metadata": {
+            "GPSInfo": 808,
+            "ResolutionUnit": 2,
+            "ExifOffset": 212,
+            "Make": "DJI",
+            "Model": "FC7303",
+            "Software": "Adobe Photoshop CC 2019 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2022:04:29 22:15:08",
+            "File Size": 9772773,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4000,
+                2250
+            ]
+        }
+    },
+    {
         "Filename": "Shanghai 121.45796E 31.22234N.jpg",
         "Metadata": {
             "File Size": 327339,
@@ -254,6 +1484,115 @@
             "Image Size": [
                 1280,
                 958
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "MonroviaLB14.png",
+        "Metadata": {
+            "File Size": 313887,
+            "Image Format": "PNG",
+            "Image Size": [
+                342,
+                440
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Cottbus 07-2017 img10 aerial.jpg",
+        "Metadata": {
+            "ImageWidth": 5464,
+            "ImageLength": 3640,
+            "GPSInfo": 904,
+            "PhotometricInterpretation": 2,
+            "ResolutionUnit": 2,
+            "ExifOffset": 292,
+            "Make": "DJI",
+            "Model": "FC6310",
+            "Software": "Adobe Photoshop CC (Windows)",
+            "Orientation": 1,
+            "DateTime": "2017:11:15 03:39:18",
+            "SamplesPerPixel": 3,
+            "Artist": "A.Savin",
+            "File Size": 5897082,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4694,
+                2934
+            ]
+        }
+    },
+    {
+        "Filename": "Dom R1.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 254,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-H1",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2014:11:01 22:31:14",
+            "YCbCrPositioning": 1,
+            "File Size": 3125386,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2174,
+                1449
+            ]
+        }
+    },
+    {
+        "Filename": "AMMAN 2.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 164,
+            "Software": "Adobe Photoshop CS4 Windows",
+            "Orientation": 1,
+            "DateTime": "2013:09:08 02:15:42",
+            "File Size": 704477,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1856,
+                2165
+            ]
+        }
+    },
+    {
+        "Filename": "Schloss Broich 0504.jpg",
+        "Metadata": {
+            "File Size": 641289,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1528,
+                691
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "CintaCosteraPanama.jpg",
+        "Metadata": {
+            "ImageWidth": 4949,
+            "ImageLength": 3298,
+            "Rating": 5,
+            "RatingPercent": 99,
+            "ExifOffset": 254,
+            "ProcessingSoftware": "digiKam-2.8.0",
+            "DocumentName": "IMG_3378_v1.jpg",
+            "Make": "Canon",
+            "Model": "Canon EOS 60D",
+            "Software": "Rawstudio 2.0",
+            "DateTime": "2012:12:02 17:31:53",
+            "Copyright": "",
+            "Artist": "",
+            "File Size": 4162640,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2898,
+                1931
             ],
             "Orientation": "Undefined"
         }
@@ -279,6 +1618,63 @@
         }
     },
     {
+        "Filename": "Central accra-2.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 166,
+            "Make": "Canon",
+            "Model": "Canon EOS 30D",
+            "Orientation": 1,
+            "DateTime": "2006:08:24 11:18:01",
+            "File Size": 111142,
+            "Image Format": "JPEG",
+            "Image Size": [
+                800,
+                533
+            ]
+        }
+    },
+    {
+        "Filename": "Praia Harbor.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 294,
+            "Make": "FUJIFILM",
+            "Model": "FinePix A700   ",
+            "Software": "Digital Camera FinePix A700    Ver1.00",
+            "Orientation": 1,
+            "DateTime": "2007:08:24 11:56:02",
+            "YCbCrPositioning": 2,
+            "Copyright": "    ",
+            "File Size": 1700685,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3072,
+                2304
+            ]
+        }
+    },
+    {
+        "Filename": "Ingolstadt Altes Rathaus 2012 02.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 254,
+            "ImageDescription": "                               ",
+            "Make": "SONY",
+            "Model": "DSC-H1",
+            "Software": "ACD Systems Digital Imaging",
+            "Orientation": 1,
+            "DateTime": "2012:07:17 21:50:13",
+            "YCbCrPositioning": 1,
+            "File Size": 2552647,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2592,
+                1728
+            ]
+        }
+    },
+    {
         "Filename": "Male-total.jpg",
         "Metadata": {
             "ResolutionUnit": 2,
@@ -298,6 +1694,44 @@
         }
     },
     {
+        "Filename": "Osnabr\u00fcck Schloss.JPG",
+        "Metadata": {
+            "RelatedImageWidth": 4320,
+            "RelatedImageLength": 3240,
+            "ExifOffset": 184,
+            "ImageDescription": "                               ",
+            "Make": "Canon",
+            "Model": "Canon IXUS 130",
+            "DateTime": "2011:04:19 00:41:27",
+            "YCbCrPositioning": 2,
+            "File Size": 434275,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1529,
+                1081
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Cityscape of San Jos\u00e9, Costa Rica (253552473).jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 230,
+            "Make": "NIKON CORPORATION",
+            "Model": "NIKON D3300",
+            "Software": "Adobe Photoshop Lightroom 5.7.1 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2018:04:05 00:12:50",
+            "File Size": 671877,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1365
+            ]
+        }
+    },
+    {
         "Filename": "Sevastopol Collage 2015.png",
         "Metadata": {
             "File Size": 2204384,
@@ -305,6 +1739,247 @@
             "Image Size": [
                 1000,
                 1400
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Fuerther Innenstadt Mrz 2020.jpg",
+        "Metadata": {
+            "GPSInfo": 4988,
+            "ResolutionUnit": 2,
+            "ExifOffset": 2336,
+            "Make": "Hasselblad",
+            "Model": "L1D-20c",
+            "Software": "Adobe Photoshop 21.0 (Windows)",
+            "Orientation": 1,
+            "DateTime": "2020:03:20 22:27:27",
+            "Artist": "Maximilian Kipke",
+            "File Size": 16553923,
+            "Image Format": "JPEG",
+            "Image Size": [
+                5464,
+                3640
+            ]
+        }
+    },
+    {
+        "Filename": "Damascus, Syria, Panorama at sunset.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 258,
+            "Make": "Canon",
+            "Model": "Canon PowerShot G9",
+            "Software": "Adobe Photoshop CS4 Windows",
+            "Orientation": 1,
+            "DateTime": "2019:04:13 23:57:15",
+            "YCbCrPositioning": 1,
+            "Copyright": "Vyacheslav Argenberg",
+            "File Size": 7451232,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4000,
+                2248
+            ]
+        }
+    },
+    {
+        "Filename": "Kathmandu Avion 01.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 247,
+            "ImageDescription": "                               ",
+            "Make": "NIKON",
+            "Model": "COOLPIX P7000",
+            "Software": "ACDSee Pro 5",
+            "Orientation": 1,
+            "DateTime": "2012:06:01 17:06:53",
+            "YCbCrPositioning": 1,
+            "File Size": 957473,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1500,
+                1125
+            ]
+        }
+    },
+    {
+        "Filename": "Hamm Luftbild Innenstadt 2007.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 352,
+            "Make": "Canon",
+            "Model": "Canon EOS-1Ds Mark II",
+            "Software": "Adobe Photoshop CS2 Windows",
+            "Orientation": 1,
+            "DateTime": "2007:06:07 20:40:42",
+            "YCbCrPositioning": 2,
+            "File Size": 575520,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2000,
+                1165
+            ]
+        }
+    },
+    {
+        "Filename": "Asunci\u00f3n Paraguay.jpg",
+        "Metadata": {
+            "File Size": 517330,
+            "Image Format": "JPEG",
+            "Image Size": [
+                975,
+                551
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Kasbah des Oudaias P1060356.JPG",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 420,
+            "Make": "Panasonic",
+            "Model": "DMC-TZ3",
+            "Software": "Picasa 3.0",
+            "Orientation": 0,
+            "DateTime": "2009:11:11 15:44:10",
+            "YCbCrPositioning": 2,
+            "File Size": 2001651,
+            "Image Format": "JPEG",
+            "Image Size": [
+                3328,
+                1872
+            ]
+        }
+    },
+    {
+        "Filename": "Algiers Grand Post.jpg",
+        "Metadata": {
+            "ImageWidth": 4640,
+            "ImageLength": 3472,
+            "ResolutionUnit": 2,
+            "ExifOffset": 240,
+            "Make": "Xiaomi",
+            "Model": "Redmi Note 8 Pro",
+            "Software": "HDR+ 1.0.296349522nly",
+            "Orientation": 1,
+            "DateTime": "2022:02:28 19:32:28",
+            "YCbCrPositioning": 1,
+            "File Size": 3164134,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4640,
+                3472
+            ]
+        }
+    },
+    {
+        "Filename": "Place Memorial auz Heros Nationaux in Burkina Faso, 2009.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 273,
+            "ImageDescription": "OLYMPUS DIGITAL CAMERA         ",
+            "Make": "OLYMPUS CORPORATION",
+            "Model": "C770UZ",
+            "Software": "QuickTime 7.6.2",
+            "Orientation": 1,
+            "DateTime": "2009:08:16 15:32:01",
+            "HostComputer": "Mac OS X 10.5.8",
+            "File Size": 194956,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                766
+            ]
+        }
+    },
+    {
+        "Filename": "Trier 126x.jpg",
+        "Metadata": {
+            "GPSInfo": 1004,
+            "ResolutionUnit": 2,
+            "ExifOffset": 356,
+            "Make": "OLYMPUS IMAGING CORP.",
+            "Model": "NIKON D750",
+            "Software": "OLYMPUS Master 2.30W",
+            "Orientation": 1,
+            "DateTime": "2016:08:18 21:47:12",
+            "YCbCrPositioning": 2,
+            "Copyright": "LUFTBILD.SIEBENGEBIRGE@GOOGLEMAIL.COM\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+            "Artist": "LUFTBILD.SIEBENGEBIRGE@GOOGLEMAIL.CO",
+            "File Size": 10452040,
+            "Image Format": "JPEG",
+            "Image Size": [
+                6016,
+                3384
+            ]
+        }
+    },
+    {
+        "Filename": "Avenida Bolivar A Chavez.jpg",
+        "Metadata": {
+            "File Size": 687081,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1154
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Freetown-aerialview.jpg",
+        "Metadata": {
+            "ResolutionUnit": 2,
+            "ExifOffset": 284,
+            "ImageDescription": "          ",
+            "Make": "NIKON",
+            "Model": "E3200",
+            "Software": "E3200v1.1",
+            "Orientation": 1,
+            "DateTime": "2004:10:04 15:18:28",
+            "YCbCrPositioning": 2,
+            "File Size": 889222,
+            "Image Format": "JPEG",
+            "Image Size": [
+                2048,
+                1536
+            ]
+        }
+    },
+    {
+        "Filename": "Paramaribo city collage.png",
+        "Metadata": {
+            "File Size": 5833578,
+            "Image Format": "PNG",
+            "Image Size": [
+                2744,
+                2760
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Moers schloss 211204.jpg",
+        "Metadata": {
+            "File Size": 133259,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1024,
+                718
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Goettingen Marktplatz Oct06 Antilived.jpg",
+        "Metadata": {
+            "File Size": 1840673,
+            "Image Format": "JPEG",
+            "Image Size": [
+                4157,
+                2300
             ],
             "Orientation": "Undefined"
         }
@@ -326,6 +2001,30 @@
                 1920,
                 1440
             ]
+        }
+    },
+    {
+        "Filename": "Imagelom\u00e920.jpg",
+        "Metadata": {
+            "File Size": 27619,
+            "Image Format": "JPEG",
+            "Image Size": [
+                460,
+                345
+            ],
+            "Orientation": "Undefined"
+        }
+    },
+    {
+        "Filename": "Regensburg 08 2006 2.jpg",
+        "Metadata": {
+            "File Size": 1066545,
+            "Image Format": "JPEG",
+            "Image Size": [
+                1501,
+                1001
+            ],
+            "Orientation": "Undefined"
         }
     }
 ]

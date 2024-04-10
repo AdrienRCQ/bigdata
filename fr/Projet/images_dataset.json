@@ -1,22 +1,190 @@
 [
     {
+        "filename": "Ciudad de Chill\u00e1n.png",
+        "data": [
+            [
+                "darkslategray",
+                "darkgrey",
+                "gainsboro",
+                "grey",
+                "black"
+            ],
+            [
+                "montages",
+                "chill\u00e1n",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Pointe des Almadies - Senegal.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "lightsteelblue",
+                "darkslategray",
+                "darkgrey",
+                "slategrey"
+            ],
+            [
+                "pointe",
+                "almadies",
+                "july",
+                "senegal",
+                "hotels"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Koblenz - Panorama von Festung Ehrenbreitstein.jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "dimgrey",
+                "lightslategrey",
+                "slategrey",
+                "darkslategray"
+            ],
+            [
+                "in",
+                "koblenz",
+                "views",
+                "ehrenbreitstein",
+                "seilbahn"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
         "filename": "Curitiba Eixos e densidade 78 (24160257688).jpg",
         "data": [
             [
-                "black",
-                "grey",
                 "lightgray",
                 "darkolivegreen",
+                "dimgrey",
+                "grey",
+                "black"
+            ],
+            [
+                "aerial",
+                "curitiba",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Bari - Piazza del Ferrarese.JPG",
+        "data": [
+            [
+                "grey",
+                "cornflowerblue",
+                "darkgrey",
+                "darkslategray",
                 "dimgrey"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "arbres"
+                "piazza",
+                "(bari)",
+                "None",
+                "None",
+                "None"
+            ],
+            "small",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Algiers in the morning.jpg",
+        "data": [
+            [
+                "darkolivegreen",
+                "silver",
+                "black",
+                "rosybrown",
+                "dimgrey"
+            ],
+            [
+                "algiers",
+                "algiers",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Bottrop - Altmarkt 02 ies.jpg",
+        "data": [
+            [
+                "paleturquoise",
+                "dimgrey",
+                "darkslategray",
+                "darkgrey",
+                "lightskyblue"
+            ],
+            [
+                "altmarkt",
+                "(bottrop)",
+                "houses",
+                "bottrop",
+                "shops"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Libreville1.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "darkgrey",
+                "dimgrey",
+                "cornflowerblue",
+                "grey"
+            ],
+            [
+                "libreville",
+                "2000s",
+                "None",
+                "None",
+                "None"
             ],
             "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "00 3178 Sydney, Australia.jpg",
+        "data": [
+            [
+                "slategrey",
+                "grey",
+                "dimgrey",
+                "darkgrey",
+                "darkslategray"
+            ],
+            [
+                "central",
+                "sydney",
+                "april",
+                "cbd",
+                "None"
+            ],
+            "large",
             "landscape"
         ]
     },
@@ -24,39 +192,81 @@
         "filename": "Pokhara1.JPG",
         "data": [
             [
-                "darkslategray",
-                "lightslategrey",
-                "lightsteelblue",
+                "grey",
                 "gainsboro",
-                "grey"
+                "lightslategrey",
+                "darkslategray",
+                "lightsteelblue"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "arbres"
+                "views",
+                "pokhara",
+                "None",
+                "None",
+                "None"
             ],
             "large",
             "landscape"
         ]
     },
     {
+        "filename": "San Salvador Montage.jpg",
+        "data": [
+            [
+                "grey",
+                "darkslategray",
+                "gainsboro",
+                "dimgrey",
+                "darkgrey"
+            ],
+            [
+                "views",
+                "salvador",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
         "filename": "Indian-Nepalese border gate at Birgunj.jpg",
         "data": [
             [
-                "darkslategray",
-                "lightsteelblue",
                 "black",
+                "lightsteelblue",
                 "dimgrey",
-                "skyblue"
+                "skyblue",
+                "darkslategray"
             ],
             [
-                "temple",
-                "asie",
-                "arbres",
                 "indian-nepalese",
-                "birgunj"
+                "birgunj",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "15-Nouakchott-eH-R0058185.jpg",
+        "data": [
+            [
+                "grey",
+                "darkslategray",
+                "black",
+                "darkgrey",
+                "dimgrey"
+            ],
+            [
+                "nouakchott",
+                "nouakchott",
+                "streets",
+                "nouakchott",
+                "None"
             ],
             "medium",
             "landscape"
@@ -66,18 +276,60 @@
         "filename": "Thimphu-12-vom Buddha Dordenma-2015-gje.jpg",
         "data": [
             [
-                "darkolivegreen",
-                "black",
-                "darkgrey",
                 "darkslategray",
-                "grey"
+                "grey",
+                "darkolivegreen",
+                "darkgrey",
+                "black"
             ],
             [
-                "ville",
-                "maisons",
-                "immeubles",
-                "arbres",
-                "views"
+                "views",
+                "city",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Blick vom Rathausturm \u00fcber Gera.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "lightsteelblue",
+                "grey",
+                "darkgrey",
+                "darkolivegreen"
+            ],
+            [
+                "views",
+                "hall",
+                "in",
+                "gera",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Canberra from Mt Ainslie (5642431515).jpg",
+        "data": [
+            [
+                "grey",
+                "darkslategray",
+                "darkgrey",
+                "dimgrey",
+                "darkslategray"
+            ],
+            [
+                "january",
+                "canberra",
+                "land",
+                "ainslie",
+                "None"
             ],
             "large",
             "landscape"
@@ -87,41 +339,272 @@
         "filename": "Montage-of-Makhachkala-(2016).png",
         "data": [
             [
+                "black",
+                "gainsboro",
                 "darkgrey",
                 "dimgrey",
-                "gainsboro",
-                "dodgerblue",
-                "black"
+                "dodgerblue"
             ],
             [
-                "temples",
-                "religion",
-                "ville",
-                "ciel",
-                "makhachkala"
+                "makhachkala",
+                "makhachkala",
+                "montages",
+                "russia",
+                "None"
             ],
             "large",
             "portrait"
         ]
     },
     {
+        "filename": "Herne, Blick auf Europaplatz mit Kreuzkirche.jpg",
+        "data": [
+            [
+                "black",
+                "darkgrey",
+                "darkolivegreen",
+                "silver",
+                "grey"
+            ],
+            [
+                "kreuzkirche",
+                "(herne)",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Addis abeba meskele square.jpg",
+        "data": [
+            [
+                "cornflowerblue",
+                "darkslategray",
+                "dimgrey",
+                "silver",
+                "darkkhaki"
+            ],
+            [
+                "in",
+                "ababa",
+                "views",
+                "ababa",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "At night in Algiers, Algeria.jpg",
+        "data": [
+            [
+                "black",
+                "grey",
+                "darkcyan",
+                "midnightblue",
+                "darkslategray"
+            ],
+            [
+                "algiers",
+                "province",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
         "filename": "Wfm foster armadillo.jpg",
         "data": [
             [
+                "dimgrey",
                 "lightgray",
                 "darkslategray",
-                "darkslategray",
+                "darkgrey",
+                "darkslategray"
+            ],
+            [
+                "clyde",
+                "auditorium",
+                "bell's",
+                "glasgow",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Tegucigalpa desde el picacho en septiembre.jpg",
+        "data": [
+            [
                 "dimgrey",
+                "black",
+                "lightgray",
+                "darkslategray",
+                "slategrey"
+            ],
+            [
+                "views",
+                "tegucigalpa",
+                "in",
+                "tegucigalpa",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Place de la nation2 (Tchad).jpg",
+        "data": [
+            [
+                "grey",
+                "darkgrey",
+                "lightslategrey",
+                "rosybrown",
+                "darkolivegreen"
+            ],
+            [
+                "place",
+                "n'djamena",
+                "festival",
+                "dary",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Leverkusen-Schloss-Morsbroich Hauptgeb\u00e4ude.jpg",
+        "data": [
+            [
+                "grey",
+                "black",
+                "tan",
+                "lightsteelblue",
+                "darkslategray"
+            ],
+            [
+                "schloss",
+                "morsbroich",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Schloss Wolfsburg Sued-West.JPG",
+        "data": [
+            [
+                "darkslategray",
+                "gainsboro",
+                "grey",
+                "darkolivegreen",
                 "darkgrey"
             ],
             [
-                "monument",
-                "ciel",
-                "eau",
-                "pont",
-                "clyde"
+                "wolfsburg",
+                "(schloss)",
+                "schlosspark",
+                "(wolfsburg)",
+                "None"
             ],
             "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Berliner Platz Guetersloh Proedous.jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "dimgrey",
+                "grey",
+                "cornflowerblue",
+                "darkslategray"
+            ],
+            [
+                "altes",
+                "(g\u00fctersloh)",
+                "berliner",
+                "(g\u00fctersloh)",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Perugia panoramic.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "silver",
+                "grey",
+                "dimgrey",
+                "lavender"
+            ],
+            [
+                "april",
+                "perugia",
+                "people",
+                "perugia",
+                "fontana"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Algiers Icon.png",
+        "data": [
+            [
+                "white",
+                "black",
+                "darkslategray",
+                "whitesmoke",
+                "darkslategray"
+            ],
+            [
+                "algiers",
+                "algiers",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Zentrum Jenas 2008-05-24.JPG",
+        "data": [
+            [
+                "gainsboro",
+                "dimgrey",
+                "darkgrey",
+                "darkslategray",
+                "lightslategrey"
+            ],
+            [
+                "jena",
+                "2008-05-24",
+                "views",
+                "(jena)",
+                "jentower"
+            ],
+            "large",
             "landscape"
         ]
     },
@@ -129,18 +612,81 @@
         "filename": "\u041a\u0440\u044b\u0442\u044b\u0439 \u0440\u044b\u043d\u043e\u043a. \u0421\u0430\u0440\u0430\u0442\u043e\u0432.jpg",
         "data": [
             [
+                "dimgrey",
                 "darkgrey",
                 "darkslategray",
-                "lightslategrey",
-                "dimgrey",
-                "whitesmoke"
+                "lavender",
+                "lightslategrey"
             ],
             [
-                "fontaine",
-                "ciel",
-                "batiment",
-                "foule",
-                "paves"
+                "market",
+                "(saratov)",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Recklinghausen, Rathaus -- 2015 -- 7398.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "gainsboro",
+                "dimgrey",
+                "darkslategray",
+                "darkolivegreen"
+            ],
+            [
+                "rathaus",
+                "recklinghausen",
+                "trees",
+                "recklinghausen",
+                "clocks"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Siegen - panoramio (9).jpg",
+        "data": [
+            [
+                "cornflowerblue",
+                "darkslategray",
+                "grey",
+                "darkolivegreen",
+                "lightsteelblue"
+            ],
+            [
+                "siegen",
+                "siegen",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434 \u0441 \u0430\u044d\u0440\u043e\u0441\u0442\u0430\u0442\u0430 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2014 10.jpg",
+        "data": [
+            [
+                "silver",
+                "darkslategray",
+                "darkslategray",
+                "grey",
+                "dimgrey"
+            ],
+            [
+                "belgorod",
+                "summer",
+                "seversky",
+                "oblast",
+                "vezyolka"
             ],
             "medium",
             "landscape"
@@ -150,41 +696,230 @@
         "filename": "Montagem RJ.jpg",
         "data": [
             [
-                "darkgrey",
-                "darkslategray",
                 "lightgray",
-                "dimgrey",
-                "cadetblue"
+                "darkslategray",
+                "darkgrey",
+                "cadetblue",
+                "dimgrey"
             ],
             [
-                "monuments",
-                "pont",
-                "stade",
-                "mer",
-                "montagnes"
+                "montages",
+                "city",
+                "None",
+                "None",
+                "None"
             ],
             "large",
             "portrait"
         ]
     },
     {
+        "filename": "Heidelberg corr.jpg",
+        "data": [
+            [
+                "grey",
+                "darkslategray",
+                "silver",
+                "black",
+                "dimgrey"
+            ],
+            [
+                "cityscapes",
+                "altstadt",
+                "north",
+                "castle",
+                "neckar"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Reutlingen T\u00fcbinger Tor 2012-04.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "lightskyblue",
+                "darkslategray",
+                "silver",
+                "cornflowerblue"
+            ],
+            [
+                "t\u00fcbinger",
+                "(reutlingen)",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Ulm Donauschwabenufer1.jpg",
+        "data": [
+            [
+                "lightslategrey",
+                "darkslategray",
+                "dimgrey",
+                "black",
+                "lightsteelblue"
+            ],
+            [
+                "blau",
+                "ulm",
+                "skylines",
+                "ulm",
+                "danube"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Solingen Innenstadt 002.JPG",
+        "data": [
+            [
+                "darkgrey",
+                "darkslategray",
+                "dimgrey",
+                "silver",
+                "cornflowerblue"
+            ],
+            [
+                "hauptstra\u00dfe",
+                "(solingen)",
+                "evangelische",
+                "(solingen)",
+                "st."
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Niamey night.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "sienna",
+                "burlywood",
+                "darkolivegreen",
+                "black"
+            ],
+            [
+                "buildings",
+                "niamey",
+                "streets",
+                "niamey",
+                "night"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
         "filename": "Samarqand.jpg",
         "data": [
             [
+                "rosybrown",
                 "wheat",
-                "darkolivegreen",
                 "darkslategray",
                 "snow",
-                "rosybrown"
+                "darkolivegreen"
             ],
             [
-                "foule",
-                "arbres",
-                "immeubles",
                 "bibi-khanum",
-                "view"
+                "view",
+                "markets",
+                "samarkand",
+                "in"
             ],
             "small",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "20130610 - Monumento aos Her\u00f3is da Independ\u00eancia.jpg",
+        "data": [
+            [
+                "lightgray",
+                "darkolivegreen",
+                "grey",
+                "black",
+                "tan"
+            ],
+            [
+                "pra\u00e7a",
+                "nacionais",
+                "monumento",
+                "(bissau)",
+                "in"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Algiers Montage.png",
+        "data": [
+            [
+                "lightblue",
+                "darkslategray",
+                "darkgrey",
+                "dimgrey",
+                "teal"
+            ],
+            [
+                "views",
+                "algiers",
+                "montages",
+                "algiers",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Nicosia 01-2017 img23 View from Shacolas Tower.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "grey",
+                "darkslategray",
+                "steelblue",
+                "tan"
+            ],
+            [
+                "in",
+                "nicosia",
+                "views",
+                "tower",
+                "ledra"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Ausblick Bergisch Gladbach.jpg",
+        "data": [
+            [
+                "azure",
+                "darkslategray",
+                "grey",
+                "powderblue",
+                "darkslategray"
+            ],
+            [
+                "landscapes",
+                "gladbach",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
             "landscape"
         ]
     },
@@ -192,20 +927,209 @@
         "filename": "Bishkek.jpg",
         "data": [
             [
+                "cornflowerblue",
+                "black",
                 "dimgrey",
                 "lightsteelblue",
+                "darkslategray"
+            ],
+            [
+                "views",
+                "bishkek",
+                "buildings",
+                "kyrgyzstan",
+                "apartment"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Schlosswache mit Lambertikirche.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "darkgrey",
+                "steelblue",
+                "darkslategray",
+                "silver"
+            ],
+            [
+                "lambertikirche",
+                "(oldenburg)",
+                "schlosswache",
+                "(oldenburg)",
+                "june"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "AnkonPanorama.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "dimgrey",
+                "grey",
+                "darkslategray",
+                "slategrey"
+            ],
+            [
+                "aerial",
+                "ancona",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Central Algeria at night.jpg",
+        "data": [
+            [
+                "sienna",
                 "black",
+                "saddlebrown",
+                "sandybrown",
+                "black"
+            ],
+            [
+                "night",
+                "algiers",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Argel 3.jpg",
+        "data": [
+            [
+                "grey",
+                "dimgrey",
+                "silver",
+                "darkslategray",
+                "lightslategrey"
+            ],
+            [
+                "aerial",
+                "province",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Dom zu paderborn1.jpg",
+        "data": [
+            [
+                "silver",
+                "steelblue",
+                "grey",
                 "darkslategray",
                 "cornflowerblue"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "arbres"
+                "exterior",
+                "cathedral",
+                "tower",
+                "cathedral",
+                "april"
+            ],
+            "medium",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Offenbacher-mainbogen-flussabw\u00e4rts001.jpg",
+        "data": [
+            [
+                "lavender",
+                "dimgrey",
+                "darkgrey",
+                "yellowgreen",
+                "darkslategray"
+            ],
+            [
+                "main",
+                "frankfurt-fechenheim",
+                "parks",
+                "main",
+                "main"
             ],
             "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Beirutcity.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "steelblue",
+                "black",
+                "slategrey",
+                "midnightblue"
+            ],
+            [
+                "skylines",
+                "beirut",
+                "panoramic",
+                "beirut",
+                "november"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u0437\u0434\u0430\u043d\u0438\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0412\u0416\u0414.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "silver",
+                "steelblue",
+                "darksalmon",
+                "sienna"
+            ],
+            [
+                "panoramic",
+                "voronezh",
+                "fridrikha",
+                "(voronezh)",
+                "headquarter"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Santiago en invierno.jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "darkslategray",
+                "lightslategrey",
+                "dimgrey",
+                "cornflowerblue"
+            ],
+            [
+                "skylines",
+                "chile",
+                "winter",
+                "chile",
+                "None"
+            ],
+            "medium",
             "landscape"
         ]
     },
@@ -213,39 +1137,312 @@
         "filename": "Orl\u00e9ans, l'automne est l\u00e0 !.jpg",
         "data": [
             [
-                "silver",
+                "rosybrown",
                 "darkolivegreen",
-                "grey",
+                "silver",
                 "lightslategrey",
-                "rosybrown"
+                "grey"
             ],
             [
-                "ville",
-                "ciel",
-                "immeubles",
-                "cathedrale",
-                "tramway"
+                "rue",
+                "(orl\u00e9ans)",
+                "orl\u00e9ans",
+                "b",
+                "west"
             ],
             "large",
             "portrait"
         ]
     },
     {
-        "filename": "Barnaul (2021)-1.jpeg",
+        "filename": "Asmara2.jpg",
         "data": [
             [
-                "grey",
-                "lightsteelblue",
                 "darkslategray",
-                "darkgrey",
+                "dimgrey",
+                "darkolivegreen",
+                "rosybrown",
                 "dimgrey"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "camion"
+                "aerial",
+                "asmara",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Panorama Nagold, Stadtkirche und Enz (1).jpg",
+        "data": [
+            [
+                "royalblue",
+                "dimgrey",
+                "darkslategray",
+                "darkgrey",
+                "cornflowerblue"
+            ],
+            [
+                "enz",
+                "pforzheim",
+                "nagold",
+                "pforzheim",
+                "stadtkirche"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Panoramique du centre de Tunis (3197369985) (cropped).jpg",
+        "data": [
+            [
+                "slategrey",
+                "darkslategray",
+                "dimgrey",
+                "darkgrey",
+                "darkslategray"
+            ],
+            [
+                "views",
+                "tunis",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Tambov TransgfigurationCathedral 101 0477.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "lightgray",
+                "grey",
+                "darkslategray",
+                "darkgrey"
+            ],
+            [
+                "transfiguration",
+                "(tambov)",
+                "aerial",
+                "tambov",
+                "statue"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Residenzschloss Darmstadt 539-Gdh.JPG",
+        "data": [
+            [
+                "dimgrey",
+                "lavender",
+                "black",
+                "silver",
+                "grey"
+            ],
+            [
+                "residenzschloss",
+                "darmstadt",
+                "cultural",
+                "darmstadt",
+                "marktbrunnen"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Remscheid rathaus.jpg",
+        "data": [
+            [
+                "lavender",
+                "grey",
+                "darkgrey",
+                "dimgrey",
+                "silver"
+            ],
+            [
+                "rathaus",
+                "remscheid",
+                "bergischer",
+                "(remscheid)",
+                "20th-century"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Sucre capital de Bolivia.jpg",
+        "data": [
+            [
+                "grey",
+                "silver",
+                "darkslategray",
+                "lavender",
+                "dimgrey"
+            ],
+            [
+                "sucre,",
+                "bolivia",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Salzgitter Stahlwerk.jpg",
+        "data": [
+            [
+                "cornflowerblue",
+                "darkgreen",
+                "darkolivegreen",
+                "lightsteelblue",
+                "grey"
+            ],
+            [
+                "salzgitter",
+                "ag",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Barnaul (2021)-1.jpeg",
+        "data": [
+            [
+                "darkgrey",
+                "darkslategray",
+                "dimgrey",
+                "grey",
+                "lightsteelblue"
+            ],
+            [
+                "photographs",
+                "bukharov",
+                "streets",
+                "barnaul",
+                "views"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Beograd collage.jpg",
+        "data": [
+            [
+                "darkslateblue",
+                "gainsboro",
+                "darkslategray",
+                "cadetblue",
+                "dimgrey"
+            ],
+            [
+                "montages",
+                "belgrade",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Marcus Aurelius Arch Tripoli Libya.jpg",
+        "data": [
+            [
+                "grey",
+                "darkgrey",
+                "darkslategray",
+                "gainsboro",
+                "darkolivegreen"
+            ],
+            [
+                "marcus",
+                "tripoli",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Djibouti City.jpg",
+        "data": [
+            [
+                "lightgray",
+                "darkslategray",
+                "grey",
+                "lavender",
+                "dimgrey"
+            ],
+            [
+                "djibouti",
+                "(city)",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Malabo a 13-oct-01.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "darkgrey",
+                "slategrey",
+                "lightsteelblue",
+                "dimgrey"
+            ],
+            [
+                "views",
+                "malabo",
+                "coasts",
+                "guinea",
+                "port"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Ciprefectyakro.JPG",
+        "data": [
+            [
+                "darkolivegreen",
+                "rosybrown",
+                "dimgrey",
+                "lightslategrey",
+                "darkslategray"
+            ],
+            [
+                "buildings",
+                "yamoussoukro",
+                "architecture",
+                "coast",
+                "politics"
             ],
             "large",
             "landscape"
@@ -255,20 +1452,83 @@
         "filename": "\u041a\u0440\u0435\u0441\u0442\u043e\u0432\u043e\u0437\u0434\u0432\u0438\u0436\u0435\u043d\u0441\u043a\u0430\u044f \u0446\u0435\u0440\u043a\u043e\u0432\u044c (\u0422\u044e\u043c\u0435\u043d\u044c)-2.jpg",
         "data": [
             [
-                "silver",
-                "darkslateblue",
                 "darkslategray",
-                "darkolivegreen",
-                "grey"
+                "grey",
+                "darkslateblue",
+                "silver",
+                "darkolivegreen"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "arbres"
+                "most",
+                "(tyumen)",
+                "nikolsky",
+                "(tyumen)",
+                "church"
             ],
             "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Neuss, Rathaus 2008.JPG",
+        "data": [
+            [
+                "grey",
+                "snow",
+                "darkslategray",
+                "dimgrey",
+                "darkgrey"
+            ],
+            [
+                "time",
+                "01:41",
+                "rathaus",
+                "neuss",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Elizabeth Quay February 2016 (cropped).jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "darkslategray",
+                "grey",
+                "darkslategray",
+                "cornflowerblue"
+            ],
+            [
+                "elizabeth",
+                "quay",
+                "skylines",
+                "perth",
+                "panoramics"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Witten 20090218.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "rosybrown",
+                "darkslategray",
+                "tan",
+                "dimgrey"
+            ],
+            [
+                "in",
+                "witten",
+                "johanniskirche",
+                "(witten)",
+                "rathaus"
+            ],
+            "large",
             "landscape"
         ]
     },
@@ -276,39 +1536,291 @@
         "filename": "Irkutsk Collage.png",
         "data": [
             [
-                "whitesmoke",
-                "grey",
                 "lightsteelblue",
                 "darkslategray",
-                "steelblue"
+                "whitesmoke",
+                "steelblue",
+                "grey"
             ],
             [
-                "temple",
-                "monuments",
-                "ciel",
-                "mer",
-                "immeuble"
+                "irkutsk",
+                "irkutsk",
+                "montages",
+                "russia",
+                "None"
             ],
             "large",
             "portrait"
         ]
     },
     {
-        "filename": "Seattle aerial 2, May 2023.png",
+        "filename": "Bangui City Centre.jpg",
         "data": [
             [
-                "darkslategray",
+                "peru",
                 "silver",
                 "darkolivegreen",
-                "darkslategray",
+                "sandybrown",
                 "grey"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "arbres"
+                "streets",
+                "bangui",
+                "in",
+                "bangui",
+                "aerial"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Alger monochrome.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "black",
+                "lightgray",
+                "darkslategray",
+                "darkgrey"
+            ],
+            [
+                "alger",
+                "centre",
+                "algiers",
+                "algiers",
+                "rue"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Old city of Maskat.jpg",
+        "data": [
+            [
+                "grey",
+                "cornflowerblue",
+                "darkslategray",
+                "lightgray",
+                "dimgrey"
+            ],
+            [
+                "old",
+                "muscat",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Bujumbura.JPG",
+        "data": [
+            [
+                "lightgray",
+                "dimgrey",
+                "darkslategray",
+                "grey",
+                "darkgrey"
+            ],
+            [
+                "views",
+                "bujumbura",
+                "cityscapes",
+                "cityscapes",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Ludwigshafenmitte ausderluft.jpg",
+        "data": [
+            [
+                "silver",
+                "darkslategray",
+                "dimgrey",
+                "darkslategray",
+                "lightslategrey"
+            ],
+            [
+                "aerial",
+                "rhein",
+                "luitpoldhafen",
+                "rhein)",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Montaje de Antofagasta.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "darkgrey",
+                "black",
+                "slategrey",
+                "darkslategray"
+            ],
+            [
+                "montages",
+                "antofagasta",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Melbourne montage 6.jpg",
+        "data": [
+            [
+                "skyblue",
+                "dimgrey",
+                "lavender",
+                "lightslategrey",
+                "darkslategray"
+            ],
+            [
+                "montages",
+                "melbourne",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Hildesheim - Blick vom Bergh\u00f6zchen.jpg",
+        "data": [
+            [
+                "rosybrown",
+                "darkslategray",
+                "lightblue",
+                "darkolivegreen",
+                "dimgrey"
+            ],
+            [
+                "views",
+                "hildesheim",
+                "remote",
+                "(hildesheim)",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Seattle aerial 2, May 2023.png",
+        "data": [
+            [
+                "grey",
+                "darkslategray",
+                "silver",
+                "darkolivegreen",
+                "darkslategray"
+            ],
+            [
+                "aerial",
+                "seattle",
+                "in",
+                "seattle",
+                "seattle"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Algiers's Airport.jpg",
+        "data": [
+            [
+                "darkolivegreen",
+                "darkseagreen",
+                "grey",
+                "lightgray",
+                "darkslategray"
+            ],
+            [
+                "algiers",
+                "airport",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Erlangen 08-2012.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "lightsteelblue",
+                "lightslategrey",
+                "rosybrown",
+                "dimgrey"
+            ],
+            [
+                "views",
+                "erlangen",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "The National Assembly Globe.jpg",
+        "data": [
+            [
+                "mediumturquoise",
+                "lightblue",
+                "seagreen",
+                "darkgrey",
+                "whitesmoke"
+            ],
+            [
+                "winners",
+                "nigeria",
+                "cultural",
+                "nigeria",
+                "national"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Quartier OCH.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "teal",
+                "rosybrown",
+                "dimgrey",
+                "lightgray"
+            ],
+            [
+                "wiki",
+                "2022",
+                "buildings",
+                "brazzaville",
+                "None"
             ],
             "large",
             "landscape"
@@ -318,20 +1830,146 @@
         "filename": "Shanghai 121.45796E 31.22234N.jpg",
         "data": [
             [
-                "royalblue",
-                "darkseagreen",
                 "dimgrey",
+                "darkseagreen",
+                "midnightblue",
                 "tan",
-                "midnightblue"
+                "royalblue"
             ],
             [
-                "carte",
-                "mer",
-                "fleuve",
-                "geographie",
-                "satellite"
+                "satellite",
+                "shanghai",
+                "huangpu",
+                "river",
+                "nasa"
             ],
             "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "MonroviaLB14.png",
+        "data": [
+            [
+                "darkslategray",
+                "gainsboro",
+                "darkgrey",
+                "dimgrey",
+                "steelblue"
+            ],
+            [
+                "monrovia",
+                "monrovia",
+                "montages",
+                "liberia",
+                "None"
+            ],
+            "small",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Cottbus 07-2017 img10 aerial.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "darkslategray",
+                "dimgrey",
+                "grey",
+                "silver"
+            ],
+            [
+                "in",
+                "cottbus",
+                "aerial",
+                "cottbus",
+                "staatstheater"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Dom R1.jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "dimgrey",
+                "grey",
+                "silver",
+                "darkslategray"
+            ],
+            [
+                "remote",
+                "(w\u00fcrzburg)",
+                "remote",
+                "(w\u00fcrzburg)",
+                "remote"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "AMMAN 2.jpg",
+        "data": [
+            [
+                "rosybrown",
+                "black",
+                "grey",
+                "linen",
+                "darkolivegreen"
+            ],
+            [
+                "views",
+                "amman",
+                "montages",
+                "jordan",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Schloss Broich 0504.jpg",
+        "data": [
+            [
+                "dimgrey",
+                "lightblue",
+                "darkgrey",
+                "lavender",
+                "darkslategray"
+            ],
+            [
+                "exterior",
+                "broich",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "CintaCosteraPanama.jpg",
+        "data": [
+            [
+                "cornflowerblue",
+                "darkolivegreen",
+                "lightsteelblue",
+                "darkkhaki",
+                "black"
+            ],
+            [
+                "cinta",
+                "costera",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
             "landscape"
         ]
     },
@@ -339,21 +1977,84 @@
         "filename": "Ulan-Ude Lenina st-2.JPG",
         "data": [
             [
-                "dimgrey",
+                "darkslategray",
                 "darkgrey",
                 "black",
-                "lightslategrey",
-                "darkslategray"
+                "dimgrey",
+                "grey"
             ],
             [
-                "ville",
-                "ciel",
-                "immeubles",
-                "arbres",
-                "monument"
+                "statues",
+                "ulan-ude",
+                "snakes",
+                "art",
+                "lenina"
             ],
             "large",
             "portrait"
+        ]
+    },
+    {
+        "filename": "Central accra-2.jpg",
+        "data": [
+            [
+                "gainsboro",
+                "grey",
+                "grey",
+                "darkgrey",
+                "dimgrey"
+            ],
+            [
+                "accra",
+                "skylines",
+                "premier",
+                "towers",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Praia Harbor.jpg",
+        "data": [
+            [
+                "peru",
+                "lightsteelblue",
+                "slategrey",
+                "darkslategray",
+                "rosybrown"
+            ],
+            [
+                "port",
+                "praia",
+                "boats",
+                "verde",
+                "coasts"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Ingolstadt Altes Rathaus 2012 02.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "skyblue",
+                "dimgrey",
+                "darkgrey",
+                "powderblue"
+            ],
+            [
+                "altes",
+                "(ingolstadt)",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
         ]
     },
     {
@@ -361,17 +2062,59 @@
         "data": [
             [
                 "darkslategray",
-                "darkslateblue",
                 "darkgrey",
                 "grey",
-                "black"
+                "black",
+                "darkslateblue"
             ],
             [
-                "ville",
-                "ciel",
-                "maisons",
-                "immeubles",
-                "ocean"
+                "aerial",
+                "mal\u00e9",
+                "october",
+                "2004",
+                "aerial"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Osnabr\u00fcck Schloss.JPG",
+        "data": [
+            [
+                "saddlebrown",
+                "black",
+                "goldenrod",
+                "palegoldenrod",
+                "darkgoldenrod"
+            ],
+            [
+                "schloss",
+                "osnabr\u00fcck",
+                "in",
+                "osnabr\u00fcck",
+                "night"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Cityscape of San Jos\u00e9, Costa Rica (253552473).jpg",
+        "data": [
+            [
+                "darkslategray",
+                "thistle",
+                "grey",
+                "black",
+                "dimgrey"
+            ],
+            [
+                "in",
+                "rica",
+                "views",
+                "rica",
+                "clouds"
             ],
             "large",
             "landscape"
@@ -381,21 +2124,315 @@
         "filename": "Sevastopol Collage 2015.png",
         "data": [
             [
-                "steelblue",
-                "darkslategray",
+                "darkgrey",
                 "dimgrey",
-                "silver",
-                "darkgrey"
+                "darkslategray",
+                "steelblue",
+                "silver"
             ],
             [
-                "monuments",
-                "mer",
-                "recif",
-                "falaise",
-                "desert"
+                "montages",
+                "sevastopol",
+                "None",
+                "None",
+                "None"
             ],
             "large",
             "portrait"
+        ]
+    },
+    {
+        "filename": "Fuerther Innenstadt Mrz 2020.jpg",
+        "data": [
+            [
+                "darkolivegreen",
+                "tan",
+                "peru",
+                "darkslategray",
+                "gainsboro"
+            ],
+            [
+                "views",
+                "nuremberg",
+                "views",
+                "f\u00fcrth",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Damascus, Syria, Panorama at sunset.jpg",
+        "data": [
+            [
+                "grey",
+                "dimgrey",
+                "darkgrey",
+                "darkslategray",
+                "dimgrey"
+            ],
+            [
+                "in",
+                "damascus",
+                "views",
+                "damascus",
+                "architecture"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Kathmandu Avion 01.JPG",
+        "data": [
+            [
+                "darkslategray",
+                "grey",
+                "darkgrey",
+                "dimgrey",
+                "silver"
+            ],
+            [
+                "aerial",
+                "kathmandu",
+                "photographs",
+                "nepal",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Hamm Luftbild Innenstadt 2007.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "dimgrey",
+                "grey",
+                "darkslategray",
+                "dimgrey"
+            ],
+            [
+                "aerial",
+                "hamm",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Asunci\u00f3n Paraguay.jpg",
+        "data": [
+            [
+                "lightsteelblue",
+                "darkslategray",
+                "grey",
+                "darkslategray",
+                "darkgrey"
+            ],
+            [
+                "skyline",
+                "asunci\u00f3n",
+                "None",
+                "None",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Kasbah des Oudaias P1060356.JPG",
+        "data": [
+            [
+                "darkslategray",
+                "rosybrown",
+                "slategrey",
+                "lightgray",
+                "dimgrey"
+            ],
+            [
+                "kasbah",
+                "udayas",
+                "bou",
+                "rabat",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Algiers Grand Post.jpg",
+        "data": [
+            [
+                "silver",
+                "black",
+                "darkslategray",
+                "grey",
+                "darkgrey"
+            ],
+            [
+                "grande",
+                "d'alger",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Place Memorial auz Heros Nationaux in Burkina Faso, 2009.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "dimgrey",
+                "silver",
+                "rosybrown",
+                "darkolivegreen"
+            ],
+            [
+                "monument",
+                "(ouagadougou)",
+                "views",
+                "ouagadougou",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Trier 126x.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "darkgrey",
+                "darkslategray",
+                "lavender",
+                "slategrey"
+            ],
+            [
+                "aerial",
+                "trier",
+                "roman",
+                "trier",
+                "konrad-adenauer-br\u00fccke"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Avenida Bolivar A Chavez.jpg",
+        "data": [
+            [
+                "black",
+                "sienna",
+                "tan",
+                "darkslategray",
+                "dimgrey"
+            ],
+            [
+                "in",
+                "managua",
+                "streets",
+                "managua",
+                "trees"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Freetown-aerialview.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "ghostwhite",
+                "lightslategrey",
+                "slategrey",
+                "lightsteelblue"
+            ],
+            [
+                "views",
+                "freetown",
+                "aerial",
+                "leone",
+                "coasts"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Paramaribo city collage.png",
+        "data": [
+            [
+                "darkolivegreen",
+                "aliceblue",
+                "grey",
+                "darkgrey",
+                "darkslategray"
+            ],
+            [
+                "paramaribo",
+                "paramaribo",
+                "None",
+                "None",
+                "None"
+            ],
+            "large",
+            "portrait"
+        ]
+    },
+    {
+        "filename": "Moers schloss 211204.jpg",
+        "data": [
+            [
+                "grey",
+                "snow",
+                "darkslategray",
+                "silver",
+                "dimgrey"
+            ],
+            [
+                "schloss",
+                "moers",
+                "in",
+                "moers",
+                "None"
+            ],
+            "medium",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Goettingen Marktplatz Oct06 Antilived.jpg",
+        "data": [
+            [
+                "darkgrey",
+                "steelblue",
+                "dimgrey",
+                "skyblue",
+                "darkslategray"
+            ],
+            [
+                "altes",
+                "g\u00f6ttingen",
+                "marktplatz",
+                "g\u00f6ttingen",
+                "None"
+            ],
+            "large",
+            "landscape"
         ]
     },
     {
@@ -403,17 +2440,59 @@
         "data": [
             [
                 "dimgrey",
-                "silver",
-                "darkslategray",
                 "lightslategrey",
+                "darkslategray",
+                "silver",
                 "slategrey"
             ],
             [
-                "ville",
-                "maisons",
-                "immeubles",
-                "arbres",
-                "aerien"
+                "cityscapes",
+                "pi\u00f1as",
+                "aerial",
+                "manila",
+                "None"
+            ],
+            "large",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Imagelom\u00e920.jpg",
+        "data": [
+            [
+                "darkslategray",
+                "silver",
+                "dimgrey",
+                "darkgrey",
+                "darkolivegreen"
+            ],
+            [
+                "views",
+                "lom\u00e9",
+                "None",
+                "None",
+                "None"
+            ],
+            "small",
+            "landscape"
+        ]
+    },
+    {
+        "filename": "Regensburg 08 2006 2.jpg",
+        "data": [
+            [
+                "grey",
+                "dimgrey",
+                "skyblue",
+                "gainsboro",
+                "darkslategray"
+            ],
+            [
+                "regensburg",
+                "regensburg",
+                "None",
+                "None",
+                "None"
             ],
             "large",
             "landscape"
