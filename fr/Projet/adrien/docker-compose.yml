@@ -13,5 +13,6 @@ services:
       - rabbitmq
     volumes:
       - .:/app
-    command: /bin/bash -c "pip install requests pandas pika SPARQLWrapper && python3 /app/multiproc_download.py"
-
+    ports:
+      - "5000:5000"
+    command: /bin/bash -c "pip install requests pandas pika SPARQLWrapper flask && python3 /app/multiproc_download.py"

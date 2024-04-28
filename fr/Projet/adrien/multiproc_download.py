@@ -9,12 +9,38 @@ from urllib.parse import urlparse, unquote
 import queue
 import multiprocessing as mp
 import pika
+from flask import Flask, request, send_from_directory
+
+
+app = Flask(__name__)
 
 IMAGES_DIR = 'images'
 if not os.path.exists(IMAGES_DIR):
     os.makedirs(IMAGES_DIR)
 
-endpoint_url = "https://query.wikidata.org/sparql"
+# code pour la connexion à RabbitMQ et le téléchargement des images...
+
+@app.route('/images/<path:filename>', methods=['GET'])
+def get_image(filename):
+    """Renvoie l'image demandée."""
+    return send_from_directory(IMAGES_DIR, filename)
+
+@app.route('/request', methods=['POST'])
+def handle_request():
+    """Traite la requête et renvoie les images demandées."""
+    request_data = request.get_json()
+    image_urls = request_data.get('image_urls')
+    if image_urls:
+        # Télécharge les images demandées
+        downloaded_images = [download_image(url) for url in image_urls]
+        # Envoie les noms des images téléchargées à RabbitMQ
+        send_to_rabbitmq(downloaded_images)
+        # Renvoie une réponse indiquant que la requête a été traitée avec succès
+        return {'status': 'success'}
+    else:
+        # Renvoie une réponse indiquant que la requête est invalide
+        return {'status': 'error', 'message': 'Invalid request'}
+    
 
 def get_sparql_results(endpoint_url, query):
     """
@@ -24,6 +50,8 @@ def get_sparql_results(endpoint_url, query):
     :param query: requête SPARQL
     :return: résultats de la requête
     """
+    endpoint_url = "https://query.wikidata.org/sparql"
+
     user_agent = "WDQS-example Python/%s.%s" % (
         sys.version_info[0],
         sys.version_info[1],
@@ -63,9 +91,24 @@ def download_image(url):
             print(f"Échec de la récupération de l'image : {request.status_code}")
             return None
 
+def send_to_rabbitmq(images):
+    """
+    Envoie les noms des images téléchargées à RabbitMQ.
+    
+    :param images: liste des noms des images téléchargées
+    """
+    connection = pika.BlockingConnection(pika.URLParameters("amqp://rabbitmq_container:5672?connection_attempts=10&retry_delay=10"))
+    channel = connection.channel()
+    channel.queue_declare(queue='ma_queue')
+    for image in images:
+        channel.basic_publish(exchange='', routing_key='ma_queue', body=image)
+    connection.close()
 
 #-------------------------------------------------------------------------------------
 def main():
+    # Démarre l'application Flask
+    app.run(host='0.0.0.0', port=5000)
+
     # Définition de la requête SPARQL (LIMIT à modfier selon le besoin)
     query = """
     SELECT DISTINCT ?grandeville ?grandevilleLabel ?pays ?paysLabel ?image {
@@ -76,6 +119,8 @@ def main():
     }
     LIMIT 10
     """
+    #Définition de l'URL de l'endpoint SPARQL
+    endpoint_url = "https://query.wikidata.org/sparql"
 
     # Récupération des résultats de la requête SPARQL
     results = get_sparql_results(endpoint_url, query)
@@ -114,10 +159,3 @@ def main():
     # Fermeture de la connexion
     connection.close()
 
-
-    # map_download = list(map(download_image, dataframe["image"]))
-    # print(map_download)
-
-if __name__ == "__main__":
-    main()
-    print("Fin du programme.")
