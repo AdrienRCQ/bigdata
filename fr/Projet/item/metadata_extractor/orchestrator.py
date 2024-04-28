@@ -4,11 +4,24 @@ import pika
 import docker
 
 def get_least_busy_container():
+    """
+    Renvoie le conteneur le moins occupé en termes d'utilisation du CPU.
+    
+    :returns: conteneur le moins occupé
+    """
     client = docker.from_env()
     containers = client.containers.list()
     return min(containers, key=lambda c: c.stats(stream=False)['cpu_stats']['cpu_usage']['total_usage'])
 
 def on_message(channel, method, properties, body):
+    """
+    Fonction de rappel appelée lorsqu'un message est reçu.
+    
+    :param channel: canal de communication
+    :param method: méthode de communication
+    :param properties: propriétés du message
+    :param body: corps du message
+    """
     container = get_least_busy_container()
     if container:
         image_path = json.loads(body.decode())['file_path']
