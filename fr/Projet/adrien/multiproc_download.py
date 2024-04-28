@@ -63,29 +63,6 @@ def download_image(url):
             print(f"Échec de la récupération de l'image : {request.status_code}")
             return None
 
-def create_queue():
-    print("Création d'une file d'attente.")
-    return queue.Queue()
-
-def send_data_to_queue(my_queue, data):
-    """
-    Envoie des données dans une file d'attente.
-    """
-    for item in data:
-        my_queue.put(item)
-
-def display_queue(my_queue):
-    """
-    Affiche le contenu d'une file d'attente.
-    """
-    queue_items = []
-    while not my_queue.empty():
-        item = my_queue.get()
-        queue_items.append(item)
-        print(item)
-    # Remettre les éléments dans la file d'attente après affichage
-    for item in queue_items:
-        my_queue.put(item)
 
 #-------------------------------------------------------------------------------------
 def main():
@@ -137,13 +114,9 @@ def main():
     # Fermeture de la connexion
     connection.close()
 
-    # # Création d'une file d'attente
-    # my_queue = create_queue()
-    # add_to_queu = send_data_to_queue(my_queue,downloaded_images)
-    # display_queue(my_queue)
 
-    # # map_download = list(map(download_image, dataframe["image"]))
-    # # print(map_download)
+    # map_download = list(map(download_image, dataframe["image"]))
+    # print(map_download)
 
 if __name__ == "__main__":
     main()
