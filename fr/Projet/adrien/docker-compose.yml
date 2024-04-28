@@ -6,12 +6,15 @@ services:
       - "5672:5672"
       - "15672:15672"
 
-  python:
-    image: python:3.10-slim
-    container_name: python_container
+  spark:
+    build: .
+    container_name: spark_container
+    volumes:
+      - ./data:/app/data
     depends_on:
       - rabbitmq
-    volumes:
-      - .:/app
-    command: /bin/bash -c "pip install requests pandas pika SPARQLWrapper && python3 /app/multiproc_download.py"
-
+    environment:
+      - SPARK_MASTER_NAME=spark
+      - SPARK_MASTER_PORT=7077
+      - SPARK_WORKER_CORES=1
+      - SPARK_WORKER_MEMORY=2G
