@@ -73,8 +73,6 @@ def send_to_queue(file_paths):
         # Connection au serveur RabbitMQ
         with pika.BlockingConnection(parameters) as connection:
             channel = connection.channel()
-            # Déclaration de la file d'attente
-            channel.queue_declare(queue='image_files')
 
             # Envoi des données à la file d'attente
             for file_path in file_paths:

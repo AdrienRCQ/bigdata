@@ -14,7 +14,7 @@ def on_message(channel, method, properties, body):
         image_path = json.loads(body.decode())['file_path']
         print(f"Dispatching job for image: {image_path} to container: {container.name}")
         # Exécution de la commande dans le conteneur sélectionné
-        container.exec_run(f"python /app/process_metadata.py {image_path}", detach=True)
+        container.exec_run(f'python /app/process_metadata.py "{image_path}"', detach=True)
     else:
         print("No containers available to process the image.")
 

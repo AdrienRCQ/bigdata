@@ -4,13 +4,12 @@ services:
     build: .
     container_name: web_container
     volumes:
-      - data-volume:/app
+      - data-volume:/app/data
+      - ./:/app
     ports:
-      - "5000:6000"
+      - "5000:5000"
     environment:
       - PYTHONPATH=/app
-      - FLASK_APP=web_app.py
-      - FLASK_ENV=development
       - BACKEND_HOST=web_container
     networks:
       bigdata-main-network:
@@ -27,4 +26,4 @@ volumes:
 networks:
   bigdata-main-network:
     external:
-      name: test2_bigdata-main-network
+      name: item_x_mathis_bigdata-main-network

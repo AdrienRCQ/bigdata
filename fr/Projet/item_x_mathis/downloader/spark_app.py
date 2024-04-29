@@ -4,33 +4,11 @@ import requests
 from urllib.parse import urlparse, unquote
 import pika
 import json
-from pyspark.sql import SparkSession
-from pyspark.sql import Row
-from SPARQLWrapper import SPARQLWrapper, JSON as SPARQL_JSON
+from pyspark.sql import SparkSession, Row
 
 IMAGES_DIR = '/app/data/images'
 if not os.path.exists(IMAGES_DIR):
     os.makedirs(IMAGES_DIR)
-
-def get_sparql_results(endpoint_url, query):
-    """
-    Exécute la requête SPARQL et renvoie les résultats sous forme de liste de Rows pour la création d'un DataFrame Spark.
-    
-    :param endpoint_url: URL de l'endpoint SPARQL
-    :param query: Requête SPARQL
-    :return: Liste de Rows
-    """
-    user_agent = "WDQS-example Python/%s.%s" % (
-        sys.version_info[0],
-        sys.version_info[1]
-    )
-    sparql = SPARQLWrapper(endpoint_url, agent=user_agent)
-    sparql.setQuery(query)
-    sparql.setReturnFormat(SPARQL_JSON)
-    results = sparql.query().convert()
-
-    rows = [Row(**{key: value['value'] for key, value in result.items()}) for result in results["results"]["bindings"]]
-    return rows
 
 def download_image(url):
     """
@@ -43,16 +21,18 @@ def download_image(url):
         request = requests.get(url, allow_redirects=True, headers=headers, stream=True)
         request.raise_for_status()  # Lève une exception en cas de réponse non réussie
 
-        filename = os.path.join(IMAGES_DIR, unquote(urlparse(url).path.split('/')[-1]))
-        if os.path.exists(filename):
+        filename = unquote(urlparse(url).path.split('/')[-1])
+        filepath = os.path.join(IMAGES_DIR, filename)
+        
+        if os.path.exists(filepath):
             print(f"Image déjà téléchargée : {filename}")
             return filename  # Retourne le nom du fichier
         else:
-            with open(filename, 'wb') as f:
+            with open(filepath, 'wb') as f:
                 for chunk in request.iter_content(chunk_size=8192):
                     f.write(chunk)
                     
-            with open(filename, 'rb') as f:
+            with open(filepath, 'rb') as f:
                 response = requests.post("http://web_container:5000/save_image", files={'image': f})
                 
                 if response.status_code == 200:
@@ -95,18 +75,8 @@ def send_to_queue(file_paths):
 
 if __name__ == "__main__":
     spark = SparkSession.builder.appName("DataCollectionApp").getOrCreate()
-
-    endpoint_url = "https://query.wikidata.org/sparql"
-    query = """
-    SELECT DISTINCT ?grandeville ?grandevilleLabel ?pays ?paysLabel ?image {
-        ?grandeville wdt:P31 wd:Q1549591;
-        wdt:P17 ?pays;
-        wdt:P18 ?image.
-        SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
-    }
-    LIMIT 20
-    """
-    sparql_results = get_sparql_results(endpoint_url, query)
+    results = json.loads(sys.argv[1])
+    sparql_results = [Row(**{key: value['value'] for key, value in result.items()}) for result in results]
 
     # Création d'un DataFrame Spark à partir des résultats SPARQL
     spark_df = spark.createDataFrame(sparql_results)
