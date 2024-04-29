@@ -1,8 +1,5 @@
 from flask import Flask, send_from_directory, request, send_file, make_response
 import os
-import json
-from PIL import Image
-import urllib.parse
 
 app = Flask(__name__)
 
@@ -12,17 +9,9 @@ app.config['UPLOAD_FOLDER'] = IMAGE_FOLDER
 
 if not os.path.exists(IMAGE_FOLDER):
     os.makedirs(IMAGE_FOLDER)
-
+    
 @app.route('/getfile/<filename>')
 def send_image(filename):
-    if filename:
-        decoded_string = urllib.parse.unquote(filename)
-        return send_from_directory(app.config['UPLOAD_FOLDER'], decoded_string)
-    else:
-        return "Filename not provided", 400
-    
-@app.route('/getfilev2/<filename>')
-def send_image_v2(filename):
     filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
     if not os.path.exists(filepath):
         print("File not found")
