@@ -43,23 +43,32 @@ def download_image(url):
         request = requests.get(url, allow_redirects=True, headers=headers, stream=True)
         request.raise_for_status()  # Lève une exception en cas de réponse non réussie
 
-        filename = os.path.join(IMAGES_DIR, unquote(urlparse(url).path.split('/')[-1]))
-        if os.path.exists(filename):
+        filename = unquote(urlparse(url).path.split('/')[-1])
+        filepath = os.path.join(IMAGES_DIR, filename)
+        
+        if os.path.exists(filepath):
             print(f"Image déjà téléchargée : {filename}")
+            send_to_queue(filename)
             return filename  # Retourne le nom du fichier
         else:
-            with open(filename, 'wb') as f:
+            with open(filepath, 'wb') as f:
                 for chunk in request.iter_content(chunk_size=8192):
                     f.write(chunk)
-
-            print(f"Image sauvegardée : {filename}")
-            return filename  # Retourne le nom du fichier
-    
+                    
+            with open(filepath, 'rb') as f:
+                response = requests.post("http://web_container:5000/save_image", files={'image': f})
+                
+                if response.status_code == 200:
+                    print(f"Image sauvegardée : {filename}")
+                    send_to_queue(filename)
+                    return filename
+                else:
+                    raise Exception("Error: {response.status_code}")
     except Exception as e:
         print(f"Échec du téléchargement de l'image : {url} - Erreur : {e}")
         return None
 
-def send_to_queue(file_paths):
+def send_to_queue(file_path):
     """
     Envoie une liste de chemins de fichiers image à RabbitMQ.
     
@@ -73,16 +82,15 @@ def send_to_queue(file_paths):
         # Connection au serveur RabbitMQ
         with pika.BlockingConnection(parameters) as connection:
             channel = connection.channel()
+            # Déclaration de la file d'attente
+            channel.queue_declare(queue='image_files')
 
             # Envoi des données à la file d'attente
-            for file_path in file_paths:
-                if file_path:  # On s'assure que le chemin n'est pas None
-                    channel.basic_publish(exchange='',
-                                          routing_key='image_files',
-                                          body=json.dumps({'file_path': file_path}))
-                    print(f"Message envoyé à la file d'attente : {file_path}")
-            
-            print("Tous les messages ont été envoyés à la file d'attente.")
+            if file_path:  # On s'assure que le chemin n'est pas None
+                channel.basic_publish(exchange='',
+                                        routing_key='image_files',
+                                        body=json.dumps(file_path))
+                print(f"Message envoyé à la file d'attente : {file_path}")
     except Exception as e:
         print(f"Échec de la connexion à RabbitMQ : {e}")
 
@@ -107,6 +115,5 @@ if __name__ == "__main__":
     # Téléchargement des images et envoi des chemins à RabbitMQ
     file_paths = spark_df.rdd.map(lambda row: download_image(row.image)).collect()
     print("File paths:", file_paths)
-    send_to_queue(file_paths)
 
     spark.stop()

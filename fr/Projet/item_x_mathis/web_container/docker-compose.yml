@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  web_container:
+    build: .
+    container_name: web_container
+    volumes:
+      - data-volume:/app/data
+      - ./:/app
+    ports:
+      - "5000:5000"
+    environment:
+      - PYTHONPATH=/app
+      - BACKEND_HOST=web_container
+    networks:
+      bigdata-main-network:
+        ipv4_address: 172.169.20.2
+
+volumes:
+  data-volume:
+    driver: local
+    driver_opts:
+      type: none
+      device: ../../data
+      o: bind
+
+networks:
+  bigdata-main-network:
+    external:
+      name: item_x_mathis_bigdata-main-network

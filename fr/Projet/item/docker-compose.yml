@@ -13,6 +13,7 @@ services:
   downloader:
     build: ./downloader
     container_name: downloader_container
+    command: tail -
     depends_on:
       - rabbitmq
     networks:

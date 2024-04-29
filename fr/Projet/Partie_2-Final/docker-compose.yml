@@ -1,0 +1,63 @@
+services:
+  rabbitmq:
+    image: rabbitmq:3.8-rc-management
+    container_name: rabbitmq_container
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - bigdata-main-network
+
+  orchestrateur:
+    image: python:3.10-slim
+    container_name: orchestrateur_container
+    depends_on:
+      - rabbitmq
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./orchestrateur:/app
+    networks:
+      - bigdata-main-network
+    working_dir: /app
+    command: /bin/bash -c "pip install -r requirements.txt && python3 king.py"
+
+  downloader:
+    build: ./downloader
+    container_name: downloader_container
+    depends_on:
+      - orchestrateur
+    networks:
+      - bigdata-main-network
+
+  metadata-extractors:
+    build: ./metadata_extractor
+    command: /bin/bash -c "tail -f /dev/null"
+    depends_on:
+      - orchestrateur
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - metadata-volume:/app/metadata
+      - ./metadata_extractor:/app
+    networks:
+      - bigdata-main-network
+    environment:
+      - WEBVOLUME_ADDRESS=172.169.20.2
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 1G
+
+networks:
+  bigdata-main-network:
+    external:
+      name: bigdata-main-network
+
+volumes:
+  metadata-volume:
+    driver: local
+    driver_opts:
+      type: none
+      device: ../metadata
+      o: bind
