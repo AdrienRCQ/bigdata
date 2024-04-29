@@ -1,5 +1,7 @@
-from flask import Flask, send_from_directory, request
+from flask import Flask, send_from_directory, request, send_file, make_response
 import os
+import json
+from PIL import Image
 import urllib.parse
 
 app = Flask(__name__)
@@ -18,6 +20,19 @@ def send_image(filename):
         return send_from_directory(app.config['UPLOAD_FOLDER'], decoded_string)
     else:
         return "Filename not provided", 400
+    
+@app.route('/getfilev2/<filename>')
+def send_image_v2(filename):
+    filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+    if not os.path.exists(filepath):
+        print("File not found")
+        return "Image not found", 404
+    
+    # Create response with image file and EXIF data
+    response = make_response(send_file(filepath, as_attachment=True))
+    response.headers['Content-Type'] = 'application/octet-stream'
+
+    return response
     
 # Define a route to save a file to the images folder
 @app.route('/save_image', methods=['POST'])

@@ -6,6 +6,7 @@ from PIL import Image
 from PIL.ExifTags import TAGS
 from io import BytesIO
 import json
+import shutil
 
 def get_exif_data(image_path):
     """
@@ -36,26 +37,78 @@ def get_exif_data(image_path):
             # Get the EXIF data from the original image and save it to the new image
             exif_data = img.getexif()
             if exif_data is not None:
+                # Convertit les valeurs EXIF en un format plus lisible
+                exif = {
+                    Image.ExifTags.TAGS[k]: v
+                    for k, v in exif_data.items()
+                    if k in Image.ExifTags.TAGS and isinstance(v, (str, int, float))
+                }
+                # Ajoute des informations supplémentaires
+                exif['File Size'] = os.path.getsize(image_path)
+                exif['Image Format'] = img.format
+                exif['Image Size'] = img.size
+                exif['Orientation'] = exif.get('Orientation', 'Undefined')
                 img.save(output_path, exif=exif_data)
+                return exif
             else:
                 img.save(output_path)
+                return {}
+        else:
+            print(f'Request failed with status code {response.status_code}')
+        
+    except Exception as e:
+        print(f"Erreur lors de l'extraction des métadonnées : {e}")
+        return e.__str__()
+    
+def get_exif_datav2(image_path):
+    """
+    Extrait les métadonnées EXIF d'une image.
+    
+    :param image_path: Chemin de l'image
+    :return: Dictionnaire contenant les métadonnées
+    """
+    try:
+        # Define the URL for the Flask service
+        encoded_string = urllib.parse.quote(image_path, safe='/', encoding=None, errors=None)
+        webvolume_address = os.environ.get('WEBVOLUME_ADDRESS', 'web_container')
+        url = f'http://{webvolume_address}:5000/getfilev2/' + encoded_string
+        
+        # Send a GET request to the Flask service
+        response = requests.get(url, stream=True)
+        
+        images_folder = '/images'
+        image_fullpath = os.path.join(images_folder, image_path)
+        if not os.path.exists(images_folder):
+            os.makedirs(images_folder)
 
-            with Image.open(output_path) as img:
-                exif_data = img._getexif()
-                # Les données EXIF peuvent être None si aucune n'est trouvée
+        # Check if the request was successful
+        if response.status_code == 200:
+            # Save the image
+            with open(image_fullpath, 'wb') as f:
+                response.raw.decode_content = True
+                shutil.copyfileobj(response.raw, f)
+
+            with open(image_fullpath, 'rb') as f:
+                img = Image.open(f)
+                exif_data = img.getexif()
+
+                # Get EXIF data
                 if exif_data is not None:
-                    # Convertit les valeurs EXIF en un format plus lisible
-                    exif = {
-                        Image.ExifTags.TAGS[k]: v
-                        for k, v in exif_data.items()
-                        if k in Image.ExifTags.TAGS and isinstance(v, (str, int, float))
-                    }
-                    # Ajoute des informations supplémentaires
-                    exif['File Size'] = os.path.getsize(image_path)
-                    exif['Image Format'] = img.format
-                    exif['Image Size'] = img.size
-                    exif['Orientation'] = exif.get('Orientation', 'Undefined')
-                    return exif
+                    with open(image_fullpath, 'rb') as f:
+                        img = Image.open(f)
+                    
+                        # Convertit les valeurs EXIF en un format plus lisible
+                        exif = {
+                            Image.ExifTags.TAGS[k]: v
+                            for k, v in exif_data.items()
+                            if k in Image.ExifTags.TAGS and isinstance(v, (str, int, float))
+                        }
+                        # Ajoute des informations supplémentaires
+                        exif['File Size'] = os.path.getsize(image_path)
+                        exif['Image Format'] = img.format
+                        exif['Image Size'] = img.size
+                        exif['Orientation'] = exif.get('Orientation', 'Undefined')
+                        return exif
                 else:
                     return {}
         else:
@@ -87,6 +140,6 @@ if __name__ == "__main__":
     image_path = sys.argv[1]
     image_path = image_path.replace('"', "")
     
-    metadata = get_exif_data(image_path)
+    metadata = get_exif_datav2(image_path)
     save_metadata(image_path, metadata)
     print(f"Métadonnées extraites et sauvegardées dans {os.path.basename(image_path)}")

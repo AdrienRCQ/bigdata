@@ -4,11 +4,33 @@ import requests
 from urllib.parse import urlparse, unquote
 import pika
 import json
-from pyspark.sql import SparkSession, Row
+from pyspark.sql import SparkSession
+from pyspark.sql import Row
+from SPARQLWrapper import SPARQLWrapper, JSON as SPARQL_JSON
 
 IMAGES_DIR = '/app/data/images'
 if not os.path.exists(IMAGES_DIR):
     os.makedirs(IMAGES_DIR)
+
+def get_sparql_results(endpoint_url, query):
+    """
+    Exécute la requête SPARQL et renvoie les résultats sous forme de liste de Rows pour la création d'un DataFrame Spark.
+    
+    :param endpoint_url: URL de l'endpoint SPARQL
+    :param query: Requête SPARQL
+    :return: Liste de Rows
+    """
+    user_agent = "WDQS-example Python/%s.%s" % (
+        sys.version_info[0],
+        sys.version_info[1]
+    )
+    sparql = SPARQLWrapper(endpoint_url, agent=user_agent)
+    sparql.setQuery(query)
+    sparql.setReturnFormat(SPARQL_JSON)
+    results = sparql.query().convert()
+
+    rows = [Row(**{key: value['value'] for key, value in result.items()}) for result in results["results"]["bindings"]]
+    return rows
 
 def download_image(url):
     """
@@ -26,6 +48,7 @@ def download_image(url):
         
         if os.path.exists(filepath):
             print(f"Image déjà téléchargée : {filename}")
+            send_to_queue(filename)
             return filename  # Retourne le nom du fichier
         else:
             with open(filepath, 'wb') as f:
@@ -37,6 +60,7 @@ def download_image(url):
                 
                 if response.status_code == 200:
                     print(f"Image sauvegardée : {filename}")
+                    send_to_queue(filename)
                     return filename
                 else:
                     raise Exception("Error: {response.status_code}")
@@ -44,7 +68,7 @@ def download_image(url):
         print(f"Échec du téléchargement de l'image : {url} - Erreur : {e}")
         return None
 
-def send_to_queue(file_paths):
+def send_to_queue(file_path):
     """
     Envoie une liste de chemins de fichiers image à RabbitMQ.
     
@@ -62,21 +86,28 @@ def send_to_queue(file_paths):
             channel.queue_declare(queue='image_files')
 
             # Envoi des données à la file d'attente
-            for file_path in file_paths:
-                if file_path:  # On s'assure que le chemin n'est pas None
-                    channel.basic_publish(exchange='',
-                                          routing_key='image_files',
-                                          body=json.dumps({'file_path': file_path}))
-                    print(f"Message envoyé à la file d'attente : {file_path}")
-            
-            print("Tous les messages ont été envoyés à la file d'attente.")
+            if file_path:  # On s'assure que le chemin n'est pas None
+                channel.basic_publish(exchange='',
+                                        routing_key='image_files',
+                                        body=json.dumps(file_path))
+                print(f"Message envoyé à la file d'attente : {file_path}")
     except Exception as e:
         print(f"Échec de la connexion à RabbitMQ : {e}")
 
 if __name__ == "__main__":
     spark = SparkSession.builder.appName("DataCollectionApp").getOrCreate()
-    results = json.loads(sys.argv[1])
-    sparql_results = [Row(**{key: value['value'] for key, value in result.items()}) for result in results]
+
+    endpoint_url = "https://query.wikidata.org/sparql"
+    query = """
+    SELECT DISTINCT ?grandeville ?grandevilleLabel ?pays ?paysLabel ?image {
+        ?grandeville wdt:P31 wd:Q1549591;
+        wdt:P17 ?pays;
+        wdt:P18 ?image.
+        SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+    }
+    LIMIT 20
+    """
+    sparql_results = get_sparql_results(endpoint_url, query)
 
     # Création d'un DataFrame Spark à partir des résultats SPARQL
     spark_df = spark.createDataFrame(sparql_results)
@@ -84,6 +115,5 @@ if __name__ == "__main__":
     # Téléchargement des images et envoi des chemins à RabbitMQ
     file_paths = spark_df.rdd.map(lambda row: download_image(row.image)).collect()
     print("File paths:", file_paths)
-    send_to_queue(file_paths)
 
     spark.stop()

@@ -21,15 +21,9 @@ services:
     working_dir: /app
     command: /bin/bash -c "pip install -r requirements.txt && python3 king.py"
 
-  downloaders:
+  downloader:
     build: ./downloader
-    command: /bin/bash -c "tail -f /dev/null"
-    deploy:
-      replicas: 3
-      resources:
-        limits:
-          cpus: '0.50'
-          memory: 1G
+    container_name: downloader_container
     depends_on:
       - orchestrateur
     networks:
